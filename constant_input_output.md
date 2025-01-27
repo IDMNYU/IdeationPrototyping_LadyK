@@ -2,6 +2,7 @@
 ##### Spring 2025 • Katherine Bennett • Mon/Wed 14:00-15:50 • In-person room 309 @ 370 Jay Street
 
 
+
 # Constant Input or Constant Output project
 
 Choose either for the next 10 weeks of the semester. **Do not do both**:
