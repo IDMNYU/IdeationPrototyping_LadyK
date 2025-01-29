@@ -41,10 +41,11 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </ul>
 <li> Do: </li>
 <ul>
-    <li> Create a list of 20 different things you currently like to do. Post on your Process site under" Constant I/O project.</li>
+    <strike><li> Create a list of 20 different things you currently like to do. Post on your Process site under" Constant I/O project.</li> </strike>
+    <li>Create a robost and extensive Mind Map exploring ideas related to your <a href = "constant_input_output.md">Constant I/O project </a>. This mind map should be dense, diverse and thorough. Remember: No Judegement! Put your ideas up there. Reserve judgement/evaluation for later. Post this under your Constant I/O on your process site. Include the map and a reflection on where you are at, at the end of this exercise. What are you thinking?</li>
     <li> Write a reflection about each of the following: Tell us about several things you liked to do as a kid. What fascinated you as a kid? What are the things you daydream about? What do you love to do? Post on your Process site under "Constant I/O project". </li>
-    <li> <a href = "PrivateEye.md">Do the Private Eye Game </a> and post the results on your Process site under "Constant I/O project"</li>
-    <li> Post a robust list of many things you'd like to possible do for your constant I/O project. Post on Process site under "Constant I/O Project."</li>
+    <strike><li> <a href = "PrivateEye.md">Do the Private Eye Game </a> and post the results on your Process site under "Constant I/O project"</li> </strike>
+    <strike><li> Post a robust list of many things you'd like to possible do for your constant I/O project. Post on Process site under "Constant I/O Project."</li> </strike>
      </ul>
     </td>
 </tr>
@@ -52,13 +53,12 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">wk 2<p>Jan 29 & Feb 3</p>
     </td>
     <td valign="top">
-    <strong> Last Day to add/drop is Sept 16th </strong>
+    <strong> Last Day to add/drop is Monday Feb 3rd </strong>
     <li> Brainstorming: Mindmaps</li>
     <li>Ideation Exercises - 5 Whys, Idea Bug, Assumption Map, How Might We</li>
     <li> Uploading Images to the Blog & Blog Recap</li>
  <li><a href="constant_i_o.md">Group Discussion: Constant Input/Output Maps</a></li>
- <li> Time Management Exercises</li>
- <li> <a href = "affinityProjectResearch.md"> Affinity Research Project </a></li>
+ <li> Time Management Exercises: </li>
      <li>Creativity & Assumptions & James Webb Young</li>
         <li>Every one has a process </li>
         <li>Cabinets of Curiosities & Collecting </li>
