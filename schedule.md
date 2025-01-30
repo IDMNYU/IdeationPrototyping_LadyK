@@ -143,7 +143,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> Show Your Work </li>
     <li>Do:</li>
         <li>Work on <a href="Midterm.md">Midterm </a></li> See the 
-        <li><a href = "affinity_Weekly.md"> Affinity Weekly </a> and the <a href = "designProblem_weekly.md">Design Problem </a> to get guidance on how to proceed for each. </li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="Time_Management_System.md">Time Management System: Kanban System</a></li>
     <li> <a href = "Midterm.md">Core project Research </a></li>
