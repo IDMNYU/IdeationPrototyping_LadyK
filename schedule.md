@@ -55,15 +55,12 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">
     <strong> Last Day to add/drop is Monday Feb 3rd </strong>
     <li> Brainstorming: Mindmaps</li>
+    <li>Screening : The Creative Brain by David Eagleman</li>
     <li>Ideation Exercises - 5 Whys, Idea Bug, Assumption Map, How Might We</li>
     <li> Uploading Images to the Blog & Blog Recap</li>
  <li><a href="constant_i_o.md">Group Discussion: Constant Input/Output Maps</a></li>
- <li> Time Management Exercises: </li>
-     <li>Creativity & Assumptions & James Webb Young</li>
-        <li>Every one has a process </li>
-        <li>Cabinets of Curiosities & Collecting </li>
-        <li>visual + design research</li>
     <li> <a href = "recommended_resources.md"> Recommended Resources </a> </li> 
+</ul>
     </td> 
     <td valign="top">
     <li> Read: </li>
@@ -77,8 +74,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li> Write a short reflection of the documentary watched in class - The Creative Brain, and post it on your Process site under "reflections." </li>
         <li> Post exercises (FourSight Profile) done in class or outlined in class with a reflection. Tell me what you are thinking? What were your results? Post under "Reflections".</li>
         <li>Constant Input/Output: Post the documentation of your process and results of the exercises, including a deep reflection of <a href = "Constant_IO_Week2.md"> Constant IO Week 2 Brief</a></li>
-        <li>Time Management System: Actionable Tasks/Steps. Break your tasks down into actionable (do-able in one sitting) steps. Tell us about the process and how that went. Write a reflection and post under "Time Management."</li>
-        <li> Survey the newsletters and sites found <a href = "affinityResearchProjectSources.md"> here. </a> Identify 5 that interest you. Post the 5 and a short reflection: Which do you like the most? Which are you unsure of? Why, etc. </li>
     </ul>
     </td>
 </tr>
@@ -86,14 +81,14 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">wk 3<p>Feb 5 & 10</p></td>
     <td valign="top">
          <li> Flow Charts & Creating <a href = "FlowCharts_ConstantIO.md">one for your Constant I/O project </a></li>
-        <li> Affinity News posts </li>
+        <li> Core Project Kick-off </li>
         <li> Imagination and Attitude + Guidelines </li>
-        <li>Screening : The Creative Brain by David Eagleman</li>
         <li>Discuss: </li>
     <ul>
-        <li> Homework and posts; Course expectations</li>
-        <li><a href = "Time_Management_System.md"> Time Management System Assignment: task management matrix & time blocking </a></li>
-    </ul>     
+     <li>Creativity & Assumptions & James Webb Young</li>
+        <li>Every one has a process </li>
+        <li>Cabinets of Curiosities & Collecting </li>
+        <li>Time Management System: Actionable Tasks/Steps. Break your tasks down into actionable (do-able in one sitting) steps. Tell us about the process and how that went. Write a reflection and post under "Time Management."</li>
 </td>  
     <td valign="top">
         <li>Read: </li>
@@ -102,19 +97,20 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         </ul>
     <li>Do: </li>
       <ul>
-        <strike><li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li> </strike>
-         <li>Do <a href = "parallelThinking_6Hats.md" >the Parallel Thinking: 6 hats </a> with reference to your ideas which you _might_ like to explore for your<a href="constant_input_output.md"> Constant Input/Output project</a>Post it under "Constant I/O project" on your Process site</li>
+        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li> 
   <li>Create your <a href = "FlowChart_ConstantIO.md"> flow chart of action </a> for your Constant I/O project. Post it and write a short reflection</li>
+  <li><a href ="Time_Management_System.md">Time Management System: Actionable Tasks</a></li>
     <li><a href= "constant_input_output.md"> Write a reflection of your process thus far and where you are at with your Constant Input/Constant Ouput</li> </a>
-    <li><a href ="Time_Management_System.md">Time Management System: Time Blocking & Task Management Matrix</a></li>
-    <li> <a href = "affinityProjectResearch.md">Affinity News Research + reflection post </a></li>
+    <li> <a href = "Midterm.md">Core Research + reflection post </a></li>
     <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
 </ul>
 </td>
 </tr>
 <td valign="top">wk 4<p>Feb 12 & TUESDAY 18</p></td>
     <td valign="top"> 
-        <li> Review Ideation Tools discussed this far</li><li>Time Management: Kanban System</li>
+        <li> Review Ideation Tools discussed this far</li>
+        <li> Time Management: Kanban System</li>
+        <li><a href ="Time_Management_System.md">Time Management System: Time Blocking & Task Management Matrix</a></li>
         <li> Divergent Thinking + Exercises </li>
          <li> Convergent Thinking + Exercises </li>
       <li> Screening: Everything is a Remix </li>
@@ -126,12 +122,11 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> Show Your Work </li>
         </ul>
     <li>Do:</li>
-    <li> <a href = "Midterm.md"> Identify the topic you wish to you persue for your Midterm Affinity Project. </a> Begin <a href = "affinity_Weekly.md" >researching it by finding 2 sources and identifying which (3) prompts you are going to use from The Pocket Universal Methods of Design. Post both with a reflection on your process site under "Affinity Project". </a> Have you idenifited any problems you've encountered which you'd like to persue for the prototype? Talk about it and post under "Prototype". Show pictures and sketches.</li>
-    <li> Tell me about the <a href = "designProblem.md">design problem </a> you wish to work on for the physical prototype. <a href = "designProblem_weekly.md">Show pictures and sketches. Tell me about the issue. </a></li>
+    <li> <a href = "Midterm.md"> Identify the topic you wish to you persue for your Core Project. researching it by finding 2 sources and identifying which (3) prompts you are going to use from The Pocket Universal Methods of Design. Post both with a reflection on your process site under "Affinity Project". </a>
+         <li><a href ="Time_Management_System.md">Time Management System: Kanban System</a></li>
     <li> Constant Input/Constant Ouput</a>. Start with the beginner <a href = "Constant_IO_wk4.md">brief</a></li>
         <li> Post your thoughts after watching Everything is a Remix. Has this changed your thinking? How so or why not? Reflect. Post under "reflections"</li>
-    <li><a href ="Time_Management_System.md">Time Management System: Kanban System</a></li>
-    <li> <a href = "affinityProjectResearch.md">Affinity News Research + READ (Link) </a></li>
+    <li> <a href = "Midterm.md">Core Research + READ (Link) </a></li>
      <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
     </ul>
         </td><tr>
@@ -141,7 +136,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li> 5 whys & mapping</li>
         <li><a href ="ConceptMap.md"> Concept Maps</li></a>
         <li>Discuss Homework</li>
-        <li> Discuss Time Management: Pomodoro Method</li>
+          <li><a href = "Time_Management_System.md"> Discuss: Time Management System Assignment: task management matrix & time blocking </a></li>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -150,8 +145,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Work on <a href="Midterm.md">Midterm </a></li> See the 
         <li><a href = "affinity_Weekly.md"> Affinity Weekly </a> and the <a href = "designProblem_weekly.md">Design Problem </a> to get guidance on how to proceed for each. </li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
-    <li><a href ="Time_Management_System.md">Time Management System: Pomodoro</a></li>
-    <li> <a href = "affinityProjectResearch.md">Affinity News Read (Links) </a></li>
+    <li><a href ="Time_Management_System.md">Time Management System: Kanban System</a></li>
+    <li> <a href = "Midterm.md">Core project Research </a></li>
     <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
         </td></tr>
         <tr><td valign="top"> wk 6 <p> Feb 26 & March 3 </td>
@@ -164,10 +159,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Read: </li>
             <li> Show Your Work </li>
       <li>Do:</li>
-     <li>Work on <a href = "Midterm.md">Midterms </a>See the  <a href = "affinity_Weekly.md"> Affinity Weekly </a> and the <a href = "designProblem_weekly.md">Design Problem </a> to get guidance on how to proceed forward for each.</li>
+     <li>Work on <a href = "Midterm.md">Midterms </a>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
             <li><a href ="Time_Management_System.md">Time Management System: Willpower</a></li>
-            <li> Affinity News Research Read (Links) </a></li>
             </tr></td>
         <tr>
 <td valign="top">wk 7 <p> March 5 & 10</td>
@@ -180,7 +174,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> Show Your Work </li>
     <li>Do:</li>
        <li>Work on <a href = "Midterm.md">Midterms </a></li>
-       <li>See the  <a href = "affinity_Weekly.md"> Affinity Weekly </a> and the <a href = "designProblem_weekly.md">Design Problem </a> to get guidance on how to proceed forward for each.</li>
        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="Time_Management_System.md">Time Management System: Willpower Part 2</a></li>
@@ -197,7 +190,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Read: </li>
             <li> FINISH: Show Your Work </li>
     <li>Do:</li>
-    <li>See the  <a href = "affinity_Weekly.md"> Affinity Weekly </a> and the <a href = "designProblem_weekly.md">Design Problem </a> to wrap up each.</li>
        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
        <li> <a href = "Future.md" >Future Project Kick Off]</a>. Please see the <a href = "Future_weeklyBrief.md" >Future Weekly Brief </a> as to how to proceed.  </li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
