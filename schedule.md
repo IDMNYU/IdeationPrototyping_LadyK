@@ -74,6 +74,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li> Do: </li>
     <ul>
         <li> If you are new this week, make sure to do the homework outlined in week 1 (above).</li>
+        <li> Write a short reflection of the documentary watched in class - The Creative Brain, and post it on your Process site under "reflections." </li>
         <li> Post exercises (FourSight Profile) done in class or outlined in class with a reflection. Tell me what you are thinking? What were your results? Post under "Reflections".</li>
         <li>Constant Input/Output: Post the documentation of your process and results of the exercises, including a deep reflection of <a href = "Constant_IO_Week2.md"> Constant IO Week 2 Brief</a></li>
         <li>Time Management System: Actionable Tasks/Steps. Break your tasks down into actionable (do-able in one sitting) steps. Tell us about the process and how that went. Write a reflection and post under "Time Management."</li>
