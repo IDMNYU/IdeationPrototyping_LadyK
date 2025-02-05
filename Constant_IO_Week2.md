@@ -19,7 +19,7 @@ The goal of this assignment is
 
 1. Once you have a solid direction/idea or several ideas, ask yourself the 5 Why's for each idea. Each Why is asked about the answer to the previous why. This is to help you get to the root of your desires/passion. See the card for more info/reference.
 
-2. Use the question How Might We....? To explore this topic more. Think: Divergent thinking. Create another mind map or list.
+~2. Use the question How Might We....? To explore this topic more. Think: Divergent thinking. Create another mind map or list.~
 
 3. What is motivating you about this?
 
