@@ -56,7 +56,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <strong> Last Day to add/drop is Monday Feb 3rd </strong>
     <li> Brainstorming: Mindmaps</li>
     <li>Screening : The Creative Brain by David Eagleman</li>
-    <li>Ideation Exercises - 5 Whys,  Assumption Map, How Might We</li>
+    <li>Ideation Exercises - 5 Whys, Assumption Map, How Might We</li>
     <li> Uploading Images to the Blog & Blog Recap</li>
  <li><a href="constant_i_o.md">Group Discussion: Constant Input/Output Maps</a></li>
     <li> <a href = "recommended_resources.md"> Recommended Resources </a> </li> 
@@ -81,11 +81,10 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">
          <li> Flow Charts & Creating <a href = "FlowCharts_ConstantIO.md">one for your Constant I/O project </a></li>
         <li> Core Project Kick-off </li>
-        <li> Imagination and Attitude + Guidelines </li>
+        <li> Imagination and Attitude: Yes, and</li>
         <li>Discuss: </li>
     <ul>
      <li>Creativity & Assumptions & James Webb Young</li>
-        <li>Every one has a process </li>
         <li>Cabinets of Curiosities & Collecting </li>
         <li>Time Management System: Actionable Tasks/Steps. Break your tasks down into actionable (do-able in one sitting) steps. Tell us about the process and how that went. Write a reflection and post under "Time Management."</li>
 </td>  
@@ -98,7 +97,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
       <ul>
         <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li> 
   <li>Create your <a href = "FlowChart_ConstantIO.md"> flow chart of action </a> for your Constant I/O project. Post it and write a short reflection</li>
-  <li> Create an expansive Mind-Map exploring possible <a href = "Midterm.md">Core Topic Ideas</a>. Include a short reflection to tell me what you are thinking at the end of the exercise. What questions do you have? </li>
+  <li> Tell us about your personal "Yes, and" experience. What happened? How did it go? What did you notice? Write a short reflection and post it under "Reflections" </li>
+  <li> Create a Mind-Map exploring possibilities for  <a href = "Midterm.md">Core Topic Ideas</a>. Include a short reflection to tell me what you are thinking at the end of the exercise. What questions do you have? </li>
   <li><a href ="Time_Management_System.md">Time Management System: Actionable Tasks</a></li>
     <li><a href= "constant_input_output.md"> Write a reflection of your process thus far and where you are at with your Constant Input/Constant Ouput</li> </a>
     <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
