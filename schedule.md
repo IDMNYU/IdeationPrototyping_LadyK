@@ -98,9 +98,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
       <ul>
         <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li> 
   <li>Create your <a href = "FlowChart_ConstantIO.md"> flow chart of action </a> for your Constant I/O project. Post it and write a short reflection</li>
+  <li> Create an expansive Mind-Map exploring possible <a href = "Midterm.md">Core Topic Ideas</a>. Include a short reflection to tell me what you are thinking at the end of the exercise. What questions do you have? </li>
   <li><a href ="Time_Management_System.md">Time Management System: Actionable Tasks</a></li>
     <li><a href= "constant_input_output.md"> Write a reflection of your process thus far and where you are at with your Constant Input/Constant Ouput</li> </a>
-    <li> <a href = "Midterm.md">Core Research + reflection post </a></li>
     <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
 </ul>
 </td>
