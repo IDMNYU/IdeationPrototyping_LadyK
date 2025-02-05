@@ -56,7 +56,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <strong> Last Day to add/drop is Monday Feb 3rd </strong>
     <li> Brainstorming: Mindmaps</li>
     <li>Screening : The Creative Brain by David Eagleman</li>
-    <li>Ideation Exercises - 5 Whys, Idea Bug, Assumption Map, How Might We</li>
+    <li>Ideation Exercises - 5 Whys,  Assumption Map, How Might We</li>
     <li> Uploading Images to the Blog & Blog Recap</li>
  <li><a href="constant_i_o.md">Group Discussion: Constant Input/Output Maps</a></li>
     <li> <a href = "recommended_resources.md"> Recommended Resources </a> </li> 
