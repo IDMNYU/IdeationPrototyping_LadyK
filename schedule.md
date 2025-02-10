@@ -95,7 +95,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         </ul>
     <li>Do: </li>
       <ul>
-        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li> 
+        <strike><li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li> </strike>
   <li>Create your <a href = "FlowChart_ConstantIO.md"> flow chart of action </a> for your Constant I/O project. Post it and write a short reflection</li>
   <li> Tell us about your personal "Yes, and" experience. What happened? How did it go? What did you notice? Write a short reflection and post it under "Reflections" </li>
   <li> Create a Mind-Map exploring possibilities for  <a href = "Midterm.md">Core Topic Ideas</a>. Include a short reflection to tell me what you are thinking at the end of the exercise. What questions do you have? </li>
