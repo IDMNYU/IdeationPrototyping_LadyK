@@ -11,8 +11,8 @@ From there, work backwards idenitifying tasks that need to be done/resolved in o
 
 Many times, it works back to the point of information gathering. What type of information do you need? What research do you need to do?
 
-The goal is: What do you need to do to start tomorrow?
-
 Identify these and create a loose schedule for yourself.
+
+The goal is: What do you need to do to start tomorrow?
 
 If your list/chart is short/small, then simply Start your Constant I/O project!
