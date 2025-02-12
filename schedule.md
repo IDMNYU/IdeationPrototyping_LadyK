@@ -106,11 +106,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </tr>
 <td valign="top">wk 4<p>Feb 12 & TUESDAY 18</p></td>
     <td valign="top"> 
-        <li> Review Ideation Tools discussed this far</li>
-        <li> Time Management: Kanban System</li>
         <li><a href ="Time_Management_System.md">Time Management System: Time Blocking & Task Management Matrix</a></li>
         <li> Divergent Thinking + Exercises </li>
-         <li> Convergent Thinking + Exercises </li>
       <li> Screening: Everything is a Remix </li>
       <li> <a href = "Midterm.md">Midterm</a>
     </td>
@@ -120,30 +117,27 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> Show Your Work </li>
         </ul>
     <li>Do:</li>
-    <li> <a href = "Midterm.md"> Identify the topic you wish to you persue for your Core Project. researching it by finding 2 sources and identifying which (3) prompts you are going to use from The Pocket Universal Methods of Design. Post both with a reflection on your process site under "Affinity Project". </a>
-         <li><a href ="Time_Management_System.md">Time Management System: Kanban System</a></li>
-    <li> Constant Input/Constant Ouput</a>. Start with the beginner <a href = "Constant_IO_wk4.md">brief</a></li>
+    <li> <a href = "Midterm.md"> Identify the topic you wish to you persue for your Core Project. Start researching it by finding 2 sources (traditional sources). Identify them, and write a short blurb on the value of that resource towards your project (this is the start of your annotated bibliography). Review The Pocket Universal Methods of Design, found in the Slack #resources. Do you see any prompts that could bring you more knowledge about your Core project? Write a short reflection about it. Post this work under "Core Project." </a>
+         <li><a href ="Time_Management_System.md">Time Management System: Kanban System. Try this out for 2-3 days and write a reflection of how it went. Post under "Time Management"</a></li>
+    <li> Constant Input/Constant Ouput. Do the next steps in your Constant I/O project. Post a reflection of your progress under "Constant I/O"</a></li>
         <li> Post your thoughts after watching Everything is a Remix. Has this changed your thinking? How so or why not? Reflect. Post under "reflections"</li>
-    <li> <a href = "Midterm.md">Core Research + READ (Link) </a></li>
      <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
     </ul>
         </td><tr>
 <td valign="top">wk 5<p>Feb 19 & 24</td>
     <td valign="top"> 
         <li>Stages of a Creative Process</li>
-        <li> 5 whys & mapping</li>
         <li><a href ="ConceptMap.md"> Concept Maps</li></a>
         <li>Discuss Homework</li>
-          <li><a href = "Time_Management_System.md"> Discuss: Time Management System Assignment: task management matrix & time blocking </a></li>
+          <li><a href = "Time_Management_System.md"> Discuss: Time Management Systems; Introduce KanBan System </a></li>
     </td>
      <td valign="top">
         <li>Read: </li>
             <li> Show Your Work </li>
     <li>Do:</li>
-        <li>Work on <a href="Midterm.md">Midterm </a></li> See the 
+       <li> <a href = "Midterm.md">Core project Research </a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="Time_Management_System.md">Time Management System: Kanban System</a></li>
-    <li> <a href = "Midterm.md">Core project Research </a></li>
     <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
         </td></tr>
         <tr><td valign="top"> wk 6 <p> Feb 26 & March 3 </td>
