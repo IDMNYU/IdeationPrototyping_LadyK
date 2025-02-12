@@ -107,7 +107,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <td valign="top">wk 4<p>Feb 12 & TUESDAY 18</p></td>
     <td valign="top"> 
         <li><a href ="Time_Management_System.md">Time Management System: Time Blocking & Task Management Matrix</a></li>
-        <li> Divergent Thinking + Exercises </li>
+        <li> Divergent Thinking + Exercises : Lateral Thinking & Extending Effort Principle </li>
       <li> Screening: Everything is a Remix </li>
       <li> <a href = "Midterm.md">Midterm</a>
     </td>
@@ -118,6 +118,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         </ul>
     <li>Do:</li>
     <li> <a href = "Midterm.md"> Identify the topic you wish to you persue for your Core Project.</a> Start researching it by finding 2 sources (traditional sources). Identify them, and write a short blurb on the value of that resource towards your project (this is the start of your annotated bibliography). Review The Pocket Universal Methods of Design, found in the Slack #resources. Do you see any prompts that could bring you more knowledge about your Core project? Write a short reflection about it. Post this work under "Core Project." </li>
+    <li> Write a short reflection about the divergent thinking exercises in class. Share your list of paper clip idea from your group as well as your sentences.</li>
          <li><a href ="Time_Management_System.md">Time Management System: Time Block & Task Management </a>Try this out for 2-3 days and write a reflection of how it went. Post under "Time Management"</li>
     <li> Constant Input/Constant Ouput. Do the next steps in your Constant I/O project. Post a reflection of your progress under "Constant I/O"</li>
         <li> Post your thoughts after watching Everything is a Remix. Has this changed your thinking? How so or why not? Reflect. Post under "reflections"</li>
