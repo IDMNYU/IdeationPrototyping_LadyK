@@ -81,7 +81,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top">
          <li> Flow Charts & Creating <a href = "FlowCharts_ConstantIO.md">one for your Constant I/O project </a></li>
         <li> Core Project Kick-off </li>
-        <li> Imagination and Attitude: Yes, and</li>
+        <li> Tool for Creativity: Imagination and Attitude: Yes, and</li>
         <li>Discuss: </li>
     <ul>
      <li>Creativity & Assumptions & James Webb Young</li>
@@ -110,6 +110,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li> Divergent Thinking + Exercises : Lateral Thinking & Extending Effort Principle </li>
       <li> Screening: Everything is a Remix </li>
       <li> <a href = "Midterm.md">Midterm</a>
+        <li> Tool: Provocative Operations </li>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -127,10 +128,11 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         </td><tr>
 <td valign="top">wk 5<p>Feb 19 & 24</td>
     <td valign="top"> 
-        <li>Stages of a Creative Process</li>
+       <li> Creative Styles </li>
+       <li> Four Sight Questionaire</li>
         <li><a href ="ConceptMap.md"> Concept Maps</li></a>
         <li>Discuss Homework</li>
-          <li><a href = "Time_Management_System.md"> Discuss: Time Management Systems; Introduce KanBan System </a></li>
+          <li><a href = "Time_Management_System.md"> Discuss: Time Management Systems: Introduce KanBan System </a></li>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -143,7 +145,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         </td></tr>
         <tr><td valign="top"> wk 6 <p> Feb 26 & March 3 </td>
             <td>  
-                <li>Discuss Homework</li>
+                 <li>Stages of a Creative Process</li>
                 <li>Time Management:Willpower</li>
                 <li>Problem Statements & Challenge Statements</li>
             </td>
