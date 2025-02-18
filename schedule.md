@@ -86,6 +86,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <ul>
      <li>Creativity & Assumptions & James Webb Young</li>
         <li>Cabinets of Curiosities & Collecting </li>
+        <li>Extra: <a href = "https://www.nytimes.com/2022/03/25/opinion/questlove-inspiration-collection.html" >Questlove's thoughts on collecting - New York Times article</a></li>
         <li>Time Management System: Actionable Tasks/Steps. Break your tasks down into actionable (do-able in one sitting) steps. Tell us about the process and how that went. Write a reflection and post under "Time Management."</li>
 </td>  
     <td valign="top">
@@ -118,7 +119,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> Show Your Work </li>
         </ul>
     <li>Do:</li>
-    <li> <a href = "Midterm.md"> Identify the topic you wish to you persue for your Core Project.</a> Start researching it by finding 2 sources (traditional sources). Identify them, and write a short blurb on the value of that resource towards your project (this is the start of your annotated bibliography). Review The Pocket Universal Methods of Design, found in the Slack #resources. Do you see any prompts that could bring you more knowledge about your Core project? Write a short reflection about it. Post this work under "Core Project." </li>
+    <li> <a href = "Midterm.md"> Identify the topic you wish to you persue for your Core Project.</a> Start researching it by finding 3 sources (traditional sources). Identify them, and write a short blurb on the value of that resource towards your project (this is the start of your annotated bibliography). </li>
     <li> Write a short reflection about the divergent thinking exercises in class. Share your list of paper clip idea from your group as well as your sentences.</li>
          <li><a href ="Time_Management_System.md">Time Management System: Time Block & Task Management </a>Try this out for 2-3 days and write a reflection of how it went. Post under "Time Management"</li>
     <li> Constant Input/Constant Ouput. Do the next steps in your Constant I/O project. Post a reflection of your progress under "Constant I/O"</li>
