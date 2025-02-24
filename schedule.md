@@ -139,7 +139,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Read: </li>
             <li> Show Your Work </li>
     <li>Do:</li>
-       <li> <a href = "Midterm.md">Core project Research </a></li>
+    <li> Try a Provocation Operation this week on yourself and/or with others. How did it go? Describe how your thinking changed, or where you got stuck. Write a short reflection and post under "reflections"</li>
+       <li> <a href = "Midterm.md">Core project Research </a> Check the <a href= "CoreWeekly.md"> Core Project Weekly Brief </a> for the specific steps.</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="Time_Management_System.md">Time Management System: Kanban System</a></li>
     <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
