@@ -150,12 +150,13 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
                  <li>Stages of a Creative Process</li>
                 <li>Time Management:Willpower</li>
                 <li>Problem Statements & Challenge Statements</li>
+                <li><a href = "StakeholderMaps.md">StakeHolder Maps</a></li>
             </td>
             <td valign="top">
         <li>Read: </li>
             <li> Show Your Work </li>
       <li>Do:</li>
-     <li>Work on <a href = "Midterm.md">Core Project & Research </a>
+     <li>Work on <a href = "CoreWeekly.md">Core Project & Research </a>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
             <li><a href ="Time_Management_System.md">Time Management System: Willpower - Post a reflection about what happens when you give in - what is the context and circumstance? What is going on during those moments? Post outlining your "I will ...., I won't.....and I want...." detailing all three</a></li>
             </tr></td>
@@ -163,13 +164,12 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <td valign="top">wk 7 <p> March 5 & 10</td>
     <td valign="top"> 
          <li> Discuss Time Management: Willpower Part 2</li>
-         <li><a href = "StakeholderMaps.md">StakeHolder Maps</a></li>
     </td>
      <td valign="top">
         <li>Read: </li>
             <li> Show Your Work </li>
     <li>Do:</li>
-       <li>Work on <a href = "Midterm.md">Midterms </a></li>
+       <li>Work on <a href = "CoreWeekly.md">Midterms </a></li>
        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="Time_Management_System.md">Time Management System: Willpower Part 2</a></li>
