@@ -20,3 +20,17 @@ This document serves as a weekly guide of how to advance your [Core Project](Mid
 
 3. Begin creating a moodboard to visually describe the different levels and scope of this issue. (due in a couple weeks). This moodboard will have iterations over the next few weeks. (NO PINTEREST)
 
+#### Week 6: Collecting Materials 
+
+1. Continue to probe and review your research. Is this confirming your assumptions or negating?
+
+2. Work on your Statements for your project. Perhaps it's a problem statement, How Might We...., How to ...., In what ways might we....." Work to craft this statement. Write a short reflection on where you are at. Talk about how you should then steer your research?
+
+3. Work to gather 2-3 more sources. Annotate their topic and use towards your project
+
+4. Continue to organize and collect dates for your timeline. Post the information/data.
+
+5. Continue to add to your moodboard, given your revelations. Post the information/data.
+
+6. Continue to collect various stakeholders with regards to your topic. Post the information/data.
+

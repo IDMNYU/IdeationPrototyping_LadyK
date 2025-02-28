@@ -155,9 +155,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Read: </li>
             <li> Show Your Work </li>
       <li>Do:</li>
-     <li>Work on <a href = "Midterm.md">Midterms </a>
+     <li>Work on <a href = "Midterm.md">Core Project & Research </a>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
-            <li><a href ="Time_Management_System.md">Time Management System: Willpower</a></li>
+            <li><a href ="Time_Management_System.md">Time Management System: Willpower - Post a reflection about what happens when you give in - what is the context and circumstance? What is going on during those moments? Post outlining your "I will ...., I won't.....and I want...." detailing all three</a></li>
             </tr></td>
         <tr>
 <td valign="top">wk 7 <p> March 5 & 10</td>
