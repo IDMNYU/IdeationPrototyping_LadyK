@@ -184,7 +184,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
           <td>  <li>Storylines + Plots<li>
               <li>Discuss: Self Assessment</li>
               <li> Future Project </li>
-              <li> Time Management: Time Audit/Inventory (See Week 8 Google Doc</li>
+              <li> Time Management: Time Audit/Inventory (See Week 8 Google Doc)</li>
     </td>
      <td valign="top">
         <li>Read: </li>
