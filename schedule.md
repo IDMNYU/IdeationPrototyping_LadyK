@@ -165,6 +165,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <td valign="top">wk 7 <p> March 5 & 10</td>
     <td valign="top"> 
          <li> Discuss Time Management: Willpower Part 2</li>
+         <li>Stakeholder Exercise</li>
+         <li>Problem/Project Statements</li>
+         <li>Introduction to other forms of research: The Pocket Universal Methods of Design (UMD)</li>
     </td>
      <td valign="top">
         <li>Read: </li>
