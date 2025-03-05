@@ -34,3 +34,20 @@ This document serves as a weekly guide of how to advance your [Core Project](Mid
 
 6. Continue to collect various stakeholders with regards to your topic. Post the information/data.
 
+#### Week 7: Distilling research
+
+1. Begin developing a draft of your Concept Map with reference to your topic. Work in your sketchbook or Miro. Document your progress and post it
+
+2. Continue to develop your moodboard
+
+3. Continue to add dates & relative events to your timeline
+
+4. Look over the UMD document (found in slack). Identify 3 research methods that would be beneficial toward your project. Please reflect what these are and what you anticipate gaining from them.
+
+5. Continue to develop stakeholder list.
+
+6. Continue to draft your Problem/Project Statements. Reference the slides about Statements as a guide. Document your efforts and progress
+
+7. Gather additional resources, as needed. Write a short reflection of what's new or evolving in your project. Where do you need help?
+
+
