@@ -5,7 +5,14 @@
 
 20% of your final grade
 
-### Due Week 7 to your Process site and in class that day
+### Due Week 9 to your Process site:
+
+Your current standing of the following:
+- Concept Map
+- Annotated Bibliography
+- Problem statement(s)
+- Timeline
+- Moodboard
 
 Choose a problem or an issue from the list below, or one you've come across and 1). investigate the issue more and 2) ideate on possibilities
 
@@ -63,7 +70,7 @@ Use 3 techniques from The Pocket Universal Methods of Design in addition to trad
 
 
 
-#### Deliverables for each WITH REFLECTIONS:
+#### The items and exercises below should be evident on your site, prior to completeing the above requested documents. These exercises and assignments help to develop the documents.
 
 * The Core:
 	- Brainstorm/mindmap/brain dump of project topic kickoff
@@ -79,11 +86,7 @@ Use 3 techniques from The Pocket Universal Methods of Design in addition to trad
 	- [Stakeholder Map](StakeholderMaps.md) and miro boards
 	- Moodboard (See slides in Slack)
 	- Timeline of the problem/situation/challenge and surrounding events
-	- Personas of 2 people who experience this issue
-	-------------------------
-	- Brainstorm/mindmap/brain dump of your knowledge at this point (I'm expecting to see evidence of the Extended Effort Principle)
-	- Crazy Eights exercise
-	- Bad Idea Brainstorm
+	* Personas of 2 people who experience this issue
 
 
 
