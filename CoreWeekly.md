@@ -22,6 +22,19 @@ This document serves as a weekly guide of how to advance your [Core Project](Mid
 
 7. Gather additional resources, as needed. Write a short reflection of what's new or evolving in your project. Where do you need help?
 
+#### Week 8: Refining documents
+
+1. Design your research endeavour(s) for your Core with reference to your chosen research methods from The Universal Methods of Design PDF
+
+2. Continue/finish working on your [Concept Map](ConceptMap.md) to date and post it
+
+3. Post the current status of your timeline in graphic form
+
+4. Post the current status of your graphic [Stakeholder map](StakeholderMaps.md)
+
+5. Post a refined Project Statement/Question. If you have not posted an ideated list of possible Project Statements/Questions, post those.
+
+
 #### Week 6: Collecting Materials 
 
 1. Continue to probe and review your research. Is this confirming your assumptions or negating?
