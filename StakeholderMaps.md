@@ -5,7 +5,9 @@
 
 Stakeholder maps are a visual tool to understand all of the parties involved in and by a project. This includes customers, industries, markets, supplies, suppliers, investors, workers, existing customers, new customers, retailers, community members and people involved, just to name a few.
 
-First, identify all the people involved in your project. Who are those affected by this situation? Who have active roles? Who have passive roles? Who makes the decisions? Identify ALL the people who are involved.
+First, identify all the people involved in your project. Who are those affected by this situation? Who will be impacted by the project? Who will be responsible? Who have active roles? Who have decision authority on the project? Who have passive roles? Who makes the decisions? Start with larger groups of people. then go back and looks for smaller groups of people within each of those groups. Identify ALL the people who are involved.
+
+“Who will be impacted by the project?”, “Who will be responsible or accountable for the project?”, “Who will have decision authority on the project?”
 
 This tool allows you to spot gaps and opportunities as you work on your project.
 
