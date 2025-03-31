@@ -3,6 +3,28 @@
 
 # [Future Project](Future.md) Weekly Brief
 
+### Semester Week 9 | Week 3: Sorted Cards, Brainstorming, research
+
+1. Revisit your cards again. Make sure your Theme cards are specific, and that your descriptor cards (for each theme) are broad with consideration to that theme. 
+
+	Some ways to do this:
+		- Use the "How Might We", "What if", "How might" to explore your theme in play in your world. Mind map about it. This should help you generate diverse descriptors if you are thinking about your theme within your WORLD
+		- Perhaps you have a theme and simply brainstorm/brain dump all the various things associated with that. Identify ones to use for your descriptor cards
+		- What are some dreams, hopes, fears and nightmares about our current world? Take those and run with those for a bit. What would the world be like if one of those were in play? What would the world's complexities be?
+
+Remember the goal of creating a world that is fundamentally different than out current world. Explore alternate values and assumptions. You are highly encouraged to take your ideas quite far out, including in time.
+
+2. Once you have your cards, pick a theme and some random descriptor and enabler cards. Can you cook these up into an idea? Does the remix of these cards generate ideas? Perhaps you realize other cards that need to be created. If so, add them to the pile.
+
+3. Cook up several ideas. Tell us about each one. Which is your favorite? Don't have a favorite? Then, redesign your cards and do another go at the exercise. The goal is for you to land on something you like!
+
+4. Do a mindmap of your idea, exploring it in greater detail with that world. Tell us at the end, how your thinking has evolved.
+
+5. Going Further: Pick up 2-3 resources that help you develop your idea with a more solid foundation. What do you need to learn about, or how can you deepen your understanding and collect more details and concepts about your idea. Look through those resources. Tell us about the resources and what your findings are and how this could be useful.
+
+Coming up: A concept map, exploring this idea and it's various contexts in your world.
+
+
 ### Semester Week 8 | Week 1: Future Project - Launch
 
 1. Read Speculative Everything (see Slack for the link) Chapter 1. This chapter will situate the project, giving it context, as you are developing a speculative future. Do not skip it. Write a brief reflection and post under reflections (if you have not done so).
