@@ -20,7 +20,7 @@ I am looking for the following:
 
 * Mind Maps
 
-* Evidence of brainstorming and exploration using at least 4 out of the 7 following exercises: How Might We..., Statement Starters, 5 Whys, Assumptions, Bad Idea Brainstorming/Reverse Brainstorming, Creative Matrix, 5WH
+* Evidence of brainstorming and exploration using at least 4 out of the 7 following exercises: How Might We..., Statement Starters, 5 Whys, Assumptions, Bad Idea Brainstorming/Reverse Brainstorming, Creative Matrix, 5WH. Demonstate and convince me of the Extended Effort Principle
 
 * Evidence of Research (ie, text and words, reflections, blurbs, bibliographies, UMD processes, news stories, podcast, movies, books, journals, articles) 
 
@@ -47,7 +47,7 @@ You will develop this world and project through the following assignments over t
 * Future Object/Artifact (High-fidelity 3-D prototype), including brainstorming and ideation<strong> </strong>
 * Timeline of the problem/situation/challenge and surrounding events
 * Evidence of World Research -  <strong>  annotated  </strong>
-* Evidence of Idea Research - <strong> sdiverse sources, via an [annotated bibliography](Future_Annotated_Bibliography.md) </strong>
+* Evidence of Idea Research - <strong> diversity of sources, via an [annotated bibliography](Future_Annotated_Bibliography.md) </strong>
 * Storyboard  -  see Slack for links<strong>  </strong>
 
 ____________________________________________________________
