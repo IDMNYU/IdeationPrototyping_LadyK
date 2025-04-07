@@ -208,7 +208,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <strike><li><a href ="Time_Management_System.md">Time Management System: Unscheduled time</a></li> </strike>
-    <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due March 23</strong>. Only do "Self". The others you will do at the end of the semester.</li>
+    <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strike><strong>This is due March 23</strong></strike>. Only do "Self". The others you will do at the end of the semester.</li>
         </td></tr>
                 <tr>
         <td valign="top">wk 10 April 2nd & 7th</p></td>
