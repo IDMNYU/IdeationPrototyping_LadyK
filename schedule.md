@@ -205,6 +205,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </td>
      <td valign="top">
     <li>Do:</li>
+    <li>Read: </li>
+            <li> Creative Quest by Questlove</li>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <strike><li><a href ="Time_Management_System.md">Time Management System: Unscheduled time</a></li> </strike>
@@ -220,9 +222,12 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
      <td valign="top">
     <li>Do:</li>
     <ul>
+        <li>Read: </li>
+            <li> Creative Quest by Questlove</li>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>  
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="Time_Management_System.md">Time Management System: Energy Mapping</a></li>
+    <li>Read the second batch of Letters from the Previous Cohort (Slack) and write a reflection considering your process and the rest of the semester</li>
     </ul>
         </td></tr>
         <tr>
@@ -236,10 +241,13 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
      <td valign="top">
     <li>Do:</li>
     <ul>
+        <li>Read: </li>
+            <li> Creative Quest by Questlove</li>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
          <li>Prepare Constant Input/Constant Ouput Presentation</li> 
     <li><a href ="Time_Management_System.md">Time Management System: Energy Management</a></li>
+     <li>Read the second batch of Letters from the Previous Cohort (Slack) and write a reflection considering your process and the rest of the semester</li>
     </ul>
         </td></tr>                       
 <tr>
@@ -251,6 +259,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
      <td valign="top">
     <li>Do:</li>
     <ul>
+        <li>Read: </li>
+            <li> Creative Quest by Questlove</li>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
     <li><a href ="Time_Management_System.md">Time Management System: <strike>Time Surfing</strike></a></li>
     </ul>
@@ -264,6 +274,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
      <td valign="top">
     <li>Do:</li>
     <ul>
+        <li>Read: </li>
+            <li> Creative Quest by Questlove</li>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
     <li><a href ="Time_Management_System.md">Time Management System</a></li>
     </ul>
