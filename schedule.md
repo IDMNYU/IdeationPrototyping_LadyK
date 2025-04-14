@@ -233,8 +233,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <tr>
         <td valign="top">wk 11 April 9th & 14th </td>
         <td>
-        <li>Discuss: Homework </li>
-        <li>In-class exercises </li>
+        <li>Discuss: Homework, Narratives & Personas</li>
+        <li>In-class exercises: Future Newspaper; Future Business </li>
         <li>Artifact/Object</li>
         <li> Discussion: Final Presentation</li>
     </td>
@@ -262,7 +262,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Read: </li>
             <li> Creative Quest by Questlove</li>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
-    <li><a href ="Time_Management_System.md">Time Management System: <strike>Time Surfing</strike></a></li>
+    <li><a href ="Time_Management_System.md">Time Management System: Eat That Frog <strike>Time Surfing</strike></a></li>
     </ul>
         </td></tr> 
         <tr>

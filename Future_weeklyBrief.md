@@ -3,7 +3,22 @@
 
 # [Future Project](Future.md) Weekly Brief
 
-### Semester Week 10 | Week 3: 
+### Semester Week 11 | Week 4: 
+
+1. Work to craft a project statement, hypothesis statement or problem. Review the statements notes, slides, and miro boards to brainstorm a project statement for your future project. Use the statement starter exercise to focus in on what you are exploring with regards to your Future Write a short reflection about the process.
+
+2. Begin to draft a possible narrative. Lost? Start with the Sticky Steps Exercise (miro board). Sketch this out on a story board. Write a short reflection.
+
+3. Continue to add to your mood board.
+
+4. Identify 2-3 resources to help you elaborate on your *Aspects*. These resources should be diverse in content with regard to one another. Idenitify them and tell us what they are about and how they might be useful.
+
+5. Brainstorm your artifact
+
+Coming up: Developing 2-3 personas (different types of people in your world), refining your narrative, brainstorming your Future presentation, Sketching & drafting artifact
+
+
+### Semester Week 10 | Week 3: Developing your world
 
 1. Pick/Identify 2-3 other aspects that are going on in your world that are separate from your idea. Do brainstorming & mindmapping, to explore not only what they are, but HOW they work. What other things were you interested in, but _just_ couldn't fit into your core idea? This is the time to put them in play. Examples include:
 
