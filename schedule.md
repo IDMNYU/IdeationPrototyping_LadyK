@@ -242,6 +242,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Do:</li>
     <ul>
         <li>Read: </li>
+        <li> Post exercises done in class or outlined in class with a reflection - Newspaper front page + Headlines & Future Business. Post under "Reflections"</li>
             <li> Creative Quest by Questlove</li>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
@@ -259,6 +260,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
      <td valign="top">
     <li>Do:</li>
     <ul>
+        <li> Post exercises done in class or outlined in class with a reflection - Fill in the Blank & Emotions; as well as the exquisite corpse from group feedback. Post under "Reflections"; Post about your artifact's dating profile &/or Crazy 8's for your artifact.</li>
         <li>Read: </li>
             <li> Creative Quest by Questlove</li>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
