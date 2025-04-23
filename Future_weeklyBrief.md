@@ -3,6 +3,22 @@
 
 # [Future Project](Future.md) Weekly Brief
 
+
+### Semester Week 12 | Week 5: 
+
+1. Use 2-3 of ANY of the previous techniques & exercises from class to develop your project further. How does this affect your understanding of your project? Reflect.
+
+2. Develop 2-3 [PERSONA's](Personas.md) from your Future World. How does this affect your understanding of your project? Reflect.
+
+3. Develop/Iterate your Artifact. Where are you at, at this point?
+
+4. Brainstorm ideas for your Final Presentation
+
+5. Continue to develop your Future Project - Including your Concept Map, Moodboard, etc.
+
+Upcoming: Updated Narrative, Iterations of Artifact, Research & sketches for Final presentation
+
+
 ### Semester Week 11 | Week 4: 
 
 1. Work to craft a project statement, hypothesis statement or problem. Review the statements notes, slides, and miro boards to brainstorm a project statement for your future project. Use the statement starter exercise to focus in on what you are exploring with regards to your Future Write a short reflection about the process.
