@@ -37,7 +37,7 @@
 
 	- Timelines
 
-	- [Assumption Collecting]  and [Assumption Mapping]((https://miro.com/app/board/uXjVLkAh4As=/))
+	- [Assumption Mapping](https://miro.com/app/board/uXjVLkAh4As=/)
 
 	- [Newspaper](https://miro.com/app/board/uXjVIC88Tzs=/)
 
