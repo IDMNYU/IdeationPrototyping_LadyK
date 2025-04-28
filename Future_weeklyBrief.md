@@ -33,7 +33,7 @@
 
 	- [Stakeholder maps](https://miro.com/app/board/uXjVLS4P34s=/) (as well as the slides in Slack showing multiple formats), links to using 2-3 other processes discussed in class to develop your project, all with a reflection
 
-	- refined [Personas](https://miro.com/app/board/uXjVL9d1Lvw=/), plus the slides in Slack. [Empathy Maps](https://miro.com/app/board/uXjVITfy9tY=/)
+	- refined [Personas](https://miro.com/app/board/uXjVL9d1Lvw=/), plus the slides in Slack. [Empathy Maps](https://miro.com/app/board/uXjVITfy9tY=/). Dating Profile (see slides in Slack)
 
 	- Timelines
 
