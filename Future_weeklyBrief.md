@@ -3,6 +3,37 @@
 
 # [Future Project](Future.md) Weekly Brief
 
+### Semester Week 13 | Week 6: 
+
+1. Iterate your artifact into a higher fidelity version. Document your process. Comment/reflect on the transition as well as the changes.
+
+2. Brainstorm/Sketch your presentation. What are you thinking? How will it happen in time? Develop a storyboard. Document your process and reflect upon it.
+
+3. Research aspects needed to make your presentation more authentic and believeable. Do not just explain this world. Make us believe it! Document your process and reflect upon it.
+
+4. Continue to develop your presentation. Document the process and reflect upon it.
+
+5. Gather/develop documents for final submission (Due May 12th 10am posted to your Process Site):
+
+- Final Concept Map discussing your idea within your world. Remember a concept map has notes between the entries, discussing their relationship to each other.
+
+- All Mind Maps. (you can provide links to previous versions)
+
+- Annotated bibliography - all your research collected into one document.
+
+- Mood Boards
+
+- Storyboards
+
+- Problem Statement Ideation, refer to the initial slides in class
+
+- Stakeholder maps, links to using 2-3 other processes discussed in class to develop your project, all with a reflection
+
+- The final version of your presentation WITH ALL of the documents used to develop it.
+
+- Final Self Assessment & Letter to the next Cohort
+
+
 
 ### Semester Week 12 | Week 5: 
 
