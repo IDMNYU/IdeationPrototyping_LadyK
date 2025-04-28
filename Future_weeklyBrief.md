@@ -17,17 +17,31 @@
 
 - Final Concept Map discussing your idea within your world. Remember a concept map has notes between the entries, discussing their relationship to each other.
 
-- All Mind Maps. (you can provide links to previous versions)
+- All Mind Maps. (you can provide links to previous versions) [Bad Idea Brainstorm](https://miro.com/app/board/uXjVIC88Tzs=/), [Crazy Eights](https://miro.com/app/board/uXjVI-siAKA=/)
+
+- Concept Map - see slides in Slack
 
 - Annotated bibliography - all your research collected into one document.
 
-- Mood Boards
+- Mood Boards - see slides in Slack
 
-- Storyboards
+- [Storyboards](https://miro.com/app/board/uXjVL9fyu6w=/), [Sticky Steps](https://miro.com/app/board/uXjVLOv4iHs=/)
 
-- Problem Statement Ideation, refer to the initial slides in class
+- [Problem Statement Ideation](https://miro.com/app/board/uXjVLWEP_FQ=/), refer to the initial slides in class - Slack; [The 5 Whys](https://miro.com/app/board/uXjVLk2bckY=/) as well as the slides in Slack. [How Might We](https://miro.com/app/board/uXjVI8y4ILA=/)
 
-- Stakeholder maps, links to using 2-3 other processes discussed in class to develop your project, all with a reflection
+- Think of any of the previous exercises we have done. How can these help your thinking to develop your projects: 
+
+	- [Stakeholder maps](https://miro.com/app/board/uXjVLS4P34s=/) (as well as the slides in Slack showing multiple formats), links to using 2-3 other processes discussed in class to develop your project, all with a reflection
+
+	- refined [Personas](https://miro.com/app/board/uXjVL9d1Lvw=/), plus the slides in Slack. [Empathy Maps](https://miro.com/app/board/uXjVITfy9tY=/)
+
+	- Timelines
+
+	- [Assumption Collecting]  and [Assumption Mapping]((https://miro.com/app/board/uXjVLkAh4As=/))
+
+	- [Newspaper](https://miro.com/app/board/uXjVIC88Tzs=/)
+
+	- Business in your world (see Slides in Slack)
 
 - The final version of your presentation WITH ALL of the documents used to develop it.
 
