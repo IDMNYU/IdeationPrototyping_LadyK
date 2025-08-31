@@ -43,7 +43,7 @@ Note that a particular task may move between quadrants as time moves ahead.
 4. Add your study time/university work time in across your open blocks. Block them in for the time span that they require.
 
 
-<img src="Images/google-calendar-obligations-daily-routines-work.png " alt="Study/Work" style="width:50%"/>
+<img src="Images/google-calendar-obligations-daily-routines-work.jpg " alt="Study/Work" style="width:50%"/>
 
 5. Then, go back into the study/work blocks and "time boxing" your study/work tasks
 
