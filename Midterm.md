@@ -1,11 +1,10 @@
-### DM-UY 1143 A Ideation and Prototyping
-##### Spring 2025 • Katherine Bennett • Mon/Wed 14:00-15:50 • In-person room 309 @ 370 Jay Street
+### DM-UY 1143 Ideation and Prototyping
 
-# Midterm Project - The Core (Research)
+# Future Project Research
 
 20% of your final grade
 
-### Due Week 9 to your Process site:
+### Due Week 7 to your Process site:
 
 Your current standing of the following:
 - Concept Map
@@ -13,6 +12,8 @@ Your current standing of the following:
 - Problem statement(s)
 - Timeline
 - Moodboard
+- UMD work
+- Mindmaps
 
 Choose a problem or an issue from the list below, or one you've come across and 1). investigate the issue more and 2) ideate on possibilities
 
@@ -62,17 +63,19 @@ Use Divergent and Convergent thinking tools in each step! Show evidence of your 
 
 - Waste : Space, Ocean, etc.
 
+- Or one of your own passions and desires
+
 ### Research Techniques
 
 I am looking for you to broaden your research techniques to throw your nets wide! Think: science publications, movies, interviews with with professionals and those involved, site visits, etc. 
 
-Use 3 techniques from The Pocket Universal Methods of Design in addition to traditional rsearch methods (Journal Articles, Reputable News, Books, THE LIBRARY). Show how you have used these techniques and what they've brought into your project
+Use 3 techniques from The Pocket Universal Methods of Design _in addition to_ traditional rsearch methods (Journal Articles, Reputable News, Books, THE LIBRARY). Show how you have used these techniques and what they've brought into your project
 
 
 
 #### The items and exercises below should be evident on your site, prior to completeing the above requested documents. These exercises and assignments help to develop the documents.
 
-* The Core:
+* The Future Project:
 	- Brainstorm/mindmap/brain dump of project topic kickoff
 	- 5 WH of topic (See Miro Board)
 	- 5 Whys of topic (See Miro Board)
@@ -86,7 +89,7 @@ Use 3 techniques from The Pocket Universal Methods of Design in addition to trad
 	- [Stakeholder Map](StakeholderMaps.md) and miro boards
 	- Moodboard (See slides in Slack)
 	- Timeline of the problem/situation/challenge and surrounding events
-	* Personas of 2 people who experience this issue
+	
 
 
 

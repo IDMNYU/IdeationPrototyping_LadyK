@@ -1,5 +1,5 @@
-### DM-UY 1143 A Ideation and Prototyping
-##### Spring 2025 • Katherine Bennett • Mon/Wed 14:00-15:50 • In-person room 309 @ 370 Jay Street
+### DM-UY 1143  Ideation and Prototyping
+
 
 # Flow Chart
 
@@ -16,3 +16,8 @@ Identify these and create a loose schedule for yourself.
 The goal is: What do you need to do to start tomorrow?
 
 If your list/chart is short/small, then simply Start your Constant I/O project!
+
+
+# Reference
+
+* Miro basic [Flow Chart Board](https://miro.com/app/board/uXjVJOOySvw=/?share_link_id=636500233892) example
