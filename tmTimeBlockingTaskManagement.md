@@ -8,12 +8,12 @@ Time Block is a time management system where you look at your weekly (or daily) 
 
 1. Look at your week and put in all your critical tasks, like classes and work (job). We'll refer to these as obligations. Block them in for the time span that they require.
 
-![Critical Tasks](Images/google-calendar-obligations.jpg "Obligations")
+![Critical Tasks](Images/google-calendar-obligations.jpg =400x400 "Obligations")
 
 
 2. Then add in your daily routines, like, waking & sleeping, and personal care. Block them in for the time span that they require.
 
-![Obligations](Images/google-calendar-obligations.jpg "Daily Routines")
+![Obligations](Images/google-calendar-obligations-and-daily-routines.jpg "Daily Routines")
 
 
 3. Now look at all the tasks you need to do, and prioritize them. 
@@ -22,7 +22,7 @@ Think about the critical tasks that need to be resolved. These are your prioriti
 
 Think about your flexible tasks. Break these into subtasks.
 
-![Tasks](Images/google-calendar-obligations.jpg "Task")
+![Tasks](Images/master-to-do-list.png "Task")
 
 These tasks could/would also include studying and homework.
 
