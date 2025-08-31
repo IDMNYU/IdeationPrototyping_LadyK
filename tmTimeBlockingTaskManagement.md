@@ -8,7 +8,7 @@ Time Block is a time management system where you look at your weekly (or daily) 
 
 1. Look at your week and put in all your critical tasks, like classes and work (job). We'll refer to these as obligations. Block them in for the time span that they require.
 
-![Critical Tasks](Images/google-calendar-obligations.jpg =400x400)
+![Critical Tasks](Images/google-calendar-obligations.jpg){width=400px}
 
 
 2. Then add in your daily routines, like, waking & sleeping, and personal care. Block them in for the time span that they require.
