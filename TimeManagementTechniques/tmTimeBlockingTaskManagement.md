@@ -49,7 +49,7 @@ Note that a particular task may move between quadrants as time moves ahead.
 
 
 
-<img src="..Images/time-boxing-google-calendar-1.png " alt="time box study & work" style="width:50%"/>
+<img src="../Images/time-boxing-google-calendar-1.png " alt="time box study & work" style="width:50%"/>
 
 By time blocking and time boxing with your tasks, you can more easily see your availablity and the timem you have.
 
