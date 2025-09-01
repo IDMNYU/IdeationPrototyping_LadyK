@@ -13,7 +13,7 @@ Time Block is a time management system where you look at your weekly (or daily) 
 
 2. Then add in your daily routines, like, waking & sleeping, and personal care. Block them in for the time span that they require.
 
-<img src="TimeManagementTechniques/Images/google-calendar-obligations-and-daily-routines.jpg " alt="Obligations" style="width:50%"/>
+<img src="../Images/google-calendar-obligations-and-daily-routines.jpg " alt="Obligations" style="width:50%"/>
 
 
 
@@ -24,7 +24,7 @@ Think about the critical tasks that need to be resolved. These are your prioriti
 
 Think about your flexible tasks. Break these into subtasks.
 
-<img src="TimeManagementTechniques/Images/master-to-do-list.png" alt="Tasks" style="width:50%"/>
+<img src="../Images/master-to-do-list.png" alt="Tasks" style="width:50%"/>
 
 
 These tasks could/would also include studying and homework.
@@ -37,19 +37,19 @@ Note that a particular task may move between quadrants as time moves ahead.
 
 
 
-<img src="TimeManagementTechniques/Images/CoveyTimeMatrix.png" alt="Time Matrix" style="width:50%"/>
+<img src="../Images/CoveyTimeMatrix.png" alt="Time Matrix" style="width:50%"/>
 
 
 4. Add your study time/university work time in across your open blocks. Block them in for the time span that they require.
 
 
-<img src="../TimeManagementTechniques/Images/google-calendar-obligations-daily-routines-work.jpg " alt="Study/Work" style="width:50%"/>
+<img src="../Images/google-calendar-obligations-daily-routines-work.jpg " alt="Study/Work" style="width:50%"/>
 
 5. Then, go back into the study/work blocks and "time boxing" your study/work tasks
 
 
 
-<img src="../TimeManagementTechniques/Images/time-boxing-google-calendar-1.png " alt="time box study & work" style="width:50%"/>
+<img src="../Images/time-boxing-google-calendar-1.png " alt="time box study & work" style="width:50%"/>
 
 By time blocking and time boxing with your tasks, you can more easily see your availablity and the timem you have.
 
