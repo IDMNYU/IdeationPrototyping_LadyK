@@ -1,7 +1,7 @@
 ### DM-UY 1143 Ideation and Prototyping
 
 
-# Time Management Technique:[Actionable Tasks](ActionableTasks.md)
+# Time Management Technique: [Actionable Tasks](ActionableTasks.md)
 
 Actionable, in this sense, means that you are able to do it within one "sitting." Sitting is definable up to you. It could mean 30 minutes. It could mean 2 hours. The critical point, is that this task is doable in that time.
 
