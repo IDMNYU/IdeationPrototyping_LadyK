@@ -137,9 +137,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li><a href ="tm_kanBan.md">Time Management System: Kanban System</a></li>
     <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
         </td></tr>
-
-        
-        <tr><td valign="top"> wk 6 <p> Feb 26 & March 3 </td>
+<tr><td valign="top"> wk 6 <p> Wednesday October 8 & TUESDAY OCtober 14 </td>
             <td>  
                  <li>Stages of a Creative Process</li>
                 <li>Time Management:Willpower</li>
@@ -151,51 +149,51 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> Show Your Work </li>
       <li>Do:</li>
       <li> Post a short reflection on the group activity - Rose, Thorn, Bud. What realizations or new directions are you planning to explore?</li>
-     <li>Work on <a href = "CoreWeekly.md">Core Project & Research </a>
+     <li>Work on <a href = "FutureResearchWeekly.md">Future Project Research </a>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
-            <li><a href ="Time_Management_System.md">Time Management System: Willpower - Post a reflection about what happens when you give in - what is the context and circumstance? What is going on during those moments? Post outlining your "I will ...., I won't.....and I want...." detailing all three</a></li>
+            <li><a href ="tm_Willpower.md">Time Management System: Willpower - Week 1</a></li>
             </tr></td>
         <tr>
-<td valign="top">wk 7 <p> March 5 & 10</td>
+<td valign="top">wk 7 <p> Wednesday October 15 & Monday October 20th</td>
     <td valign="top"> 
          <li> Discuss Time Management: Willpower Part 2</li>
          <li>Stakeholder Exercise</li>
          <li>Problem/Project Statements</li>
-         <li>Introduction to other forms of research: The Pocket Universal Methods of Design (UMD)</li>
+         <li>Introduction to other forms of research: [The Pocket Universal Methods of Design (UMD)](https://books.google.com/books/about/The_Pocket_Universal_Methods_of_Design_R.html?id=TmNCEAAAQBAJ) (see Slack Resources)</li>
     </td>
      <td valign="top">
         <li>Read: </li>
             <li> Show Your Work </li>
     <li>Do:</li>
-       <li>Work on <a href = "CoreWeekly.md">Core Project </a></li>
+       <li>Work on <a href = "FutureResearchWeekly.md">Future Project Research</a></li>
        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
-    <li><a href ="Time_Management_System.md">Time Management System: Willpower Part 2</a></li>
+    <li><a href ="tm_Willpower.md">Time Management System: Willpower Part 2</a></li>
         </td> 
 </tr>
 <tr>
-       <td valign="top">wk 8 March 12 & 17</td> 
+       <td valign="top">wk 8 <p> Wednesday October 22 & Monday October 27</td> 
           <td>  <li>Storylines + Plots<li>
               <li>Discuss: Self Assessment</li>
               <li> Future Project </li>
-              <li> Time Management: Time Audit/Inventory (See Slides)</li>
+              <li> <a href = tm_Inventory_Audit.md">Time Management: Time Audit/Inventory </a>. (See also Slack Slides)</li>
     </td>
      <td valign="top">
         <li>Read: </li>
             <li> FINISH: Show Your Work </li>
     <li>Do:</li>
        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
-       <li> <a href = "Future.md" >Future Project Kick Off</a>. Please see the <a href = "Future_weeklyBrief.md" >Future Weekly Brief </a> as to how to proceed.  </li>
-       <li>Finish/Refine your <a href = "CoreWeekly.md">Core Project </a> documents</li>
+       <li> <a href = "Future.md" >Future Project Part 2</a>. Please see the <a href = "Future_weeklyBrief.md" >Future Weekly Brief </a> as to how to proceed.  </li>
+       <li>Finish/Refine your <a href = "FutureResearchWeekly.md">Future Research Project </a> documents</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
-    <li><a href ="Time_Management_System.md">Time Management System: Time Inventory</a></li>
-    <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due <strike>March 23rd</strike>April 6th</strong>. Only do "Self". The others you will do at the end of the semester.</li>
+    <li><a href ="tm_Inventory_Audit.md">Time Management System: Time Inventory</a></li>
+    <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due </strong>. Only do "Self". The others you will do at the end of the semester.</li>
         </td> </tr>
-        <tr>
-        <td valign="top">wk 9 March 19 & Monday March 31</td>
+       <tr>
+        <td valign="top">wk 9 Wednesday October 22nd & Monday October 27th </td>
         <td>
         <li>Future Project</li>
-        <li> Time Management: Time Inventory </li>
+        <li> Time Management: Time Inventory Part 2 </li>
     </td>
      <td valign="top">
     <li>Do:</li>
@@ -203,15 +201,16 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> Creative Quest by Questlove</li>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
-    <strike><li><a href ="Time_Management_System.md">Time Management System: Unscheduled time</a></li> </strike>
-    <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strike><strong>This is due March 23</strong></strike>. Only do "Self". The others you will do at the end of the semester.</li>
+    <strike><li><a href ="tm_Inventory_Audit.md">Time Audit Part 2 : Unscheduled time</a></li> </strike>
+    <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due XXX</strong>. Only do "Self". The others you will do at the end of the semester.</li>
         </td></tr>
                 <tr>
-        <td valign="top">wk 10 April 2nd & 7th</p></td>
+        <td valign="top">wk 10 Wednesday October 29th & Monday November 3rd</p></td>
         <td>
         <li>Discuss: Homework </li>
-        <li>In-class exercises - Future Object</li>
-        <li> Introduce and Discuss Final Presentations </li>
+       <li>In-class exercises - Future Object</li>
+       <li> Introduce and Discuss Final Presentations </li>
+        <li> Time Management: <a href = "tm_energyMapping.md"> Energy Mapping </a> </li>
     </td>
      <td valign="top">
     <li>Do:</li>
@@ -220,12 +219,12 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> Creative Quest by Questlove</li>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>  
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
-    <li><a href ="Time_Management_System.md">Time Management System: Energy Mapping</a></li>
+    <li>Time Management System: <a href = "tm_energyMapping.md" > Energy Mapping </a> </li>
     <li>Read the second batch of Letters from the Previous Cohort (Slack) and write a reflection considering your process and the rest of the semester</li>
     </ul>
         </td></tr>
         <tr>
-        <td valign="top">wk 11 April 9th & 14th </td>
+        <td valign="top">wk 11 Wednesday November 5th & Monday November 10th</td>
         <td>
         <li>Discuss: Homework, Narratives & Personas</li>
         <li>In-class exercises: Future Newspaper; Future Business </li>
@@ -246,7 +245,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr>                       
 <tr>
-        <td valign="top">wk 12 April 16 & 21 </td>
+        <td valign="top">wk 12 Wednesday November 12 & Monday November 17th </td>
         <td>
             <li> In-class exercises </li>
         <li>Constant Input/Output Presentations </li>
@@ -262,7 +261,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr> 
         <tr>
-        <td valign="top">wk 13 April 23 & 28</td>
+        <td valign="top">wk 13 Wednesday November 19th & Monday November 24th</td>
         <td>
         <li>Final Presentation Dry Run/Dress Rehearsal</li>
     </td>
@@ -276,7 +275,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr>
         <tr>
-        <td valign="top">wk 14 April 30 & May 5</td>
+        <td valign="top">wk 14 MONDAY December 1st and WEDNEDAY December 3rd</td>
         <td>
             <li>Final Future Presentations</li>
     </td>
@@ -284,7 +283,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Do:</li>
     <ul>
         <li><a href = "Future_weeklyBrief.md">Future Project</a></li>
-        <li><strong><a href = "end-of-semester-deliverables.md"> Submit End of Semester Deliverables by due dates on the brief. This is important --> May 12 10:00 AM EST</a><strong></li>
+        <li><strong><a href = "end-of-semester-deliverables.md"> Submit End of Semester Deliverables by due dates on the brief. This is important --> XXXXX</a><strong></li>
     </ul>
         </td></tr>
 </table>
