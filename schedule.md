@@ -166,7 +166,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Read: </li>
             <li> Show Your Work </li>
     <li>Do:</li>
-       <li>Work on <a href = "TimeManagementTechniques/FutureResearchWeekly.md">Future Project Research</a></li>
+       <li>Work on <a href = "assignmentBriefs/FutureResearchWeekly.md">Future Project Research</a></li>
        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="TimeManagementTechniques/tm_Willpower.md">Time Management System: Willpower Part 2</a></li>
@@ -202,7 +202,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> Creative Quest by Questlove</li>
         <li><a href = "assignmentBriefs/Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
-    <strike><li><a href ="TimeManagementTechniques/tm_Inventory_Audit.md">Time Audit Part 2 : Unscheduled time</a></li> </strike>
+    <li><a href ="TimeManagementTechniques/tm_Inventory_Audit.md">Time Audit Part 2 : Unscheduled time</a></li> 
     <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due XXX</strong>. Only do "Self". The others you will do at the end of the semester.</li>
         </td></tr>
                 <tr>
@@ -258,7 +258,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Read: </li>
             <li> Creative Quest by Questlove</li>
         <li><a href = "assignmentBriefs/Future_weeklyBrief.md">Future Project</a></li>
-    <li><a href ="Time_Management_System.md">Time Management System: Pomodoro <strike>Time Surfing</strike></a></li>
+    <li><a href ="Time_Management_System.md">Time Management System: Pomodoro</a></li>
     </ul>
         </td></tr> 
         <tr>
@@ -272,7 +272,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Read: </li>
             <li> Creative Quest by Questlove</li>
         <li><a href = "assignmentBriefs/Future_weeklyBrief.md">Future Project</a></li>
-    <li><a href ="Time_Management_System.md">Time Management System</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System:Time Surfing</a></li>
     </ul>
         </td></tr>
         <tr>
