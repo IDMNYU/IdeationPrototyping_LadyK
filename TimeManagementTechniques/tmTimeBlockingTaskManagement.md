@@ -43,13 +43,13 @@ Note that a particular task may move between quadrants as time moves ahead.
 4. Add your study time/university work time in across your open blocks. Block them in for the time span that they require.
 
 
-<img src="TimeManagementTechniques/Images/google-calendar-obligations-daily-routines-work.jpg " alt="Study/Work" style="width:50%"/>
+<img src="../TimeManagementTechniques/Images/google-calendar-obligations-daily-routines-work.jpg " alt="Study/Work" style="width:50%"/>
 
 5. Then, go back into the study/work blocks and "time boxing" your study/work tasks
 
 
 
-<img src="../../Images/time-boxing-google-calendar-1.png " alt="time box study & work" style="width:50%"/>
+<img src="../TimeManagementTechniques/Images/time-boxing-google-calendar-1.png " alt="time box study & work" style="width:50%"/>
 
 By time blocking and time boxing with your tasks, you can more easily see your availablity and the timem you have.
 
