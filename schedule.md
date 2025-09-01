@@ -6,6 +6,21 @@
 
 *Git & Slack are living, dynamic sources. If there are any changes to the schedule in the syllabus, I will note these changes on git and slack  (announcement channel) AND in person during class.*
 
+
+<script type="text/javascript">
+  function refreshPage () {
+      var page_y = document.getElementsByTagName("body")[0].scrollTop;
+      window.location.href = window.location.href.split('?')[0] + '?page_y=' + page_y;
+  }
+  window.onload = function () {
+      setTimeout(refreshPage, 35000);
+      if ( window.location.href.indexOf('page_y') != -1 ) {
+          var match = window.location.href.split('?')[1].split("&")[0].split("=");
+          document.getElementsByTagName("body")[0].scrollTop = match[1];
+      }
+  }
+</script>
+
 Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu/training-and-reservations/">Tandon's MakerSpace.</a></strong> 
 <table min-width="100%">
 <tr>
@@ -51,7 +66,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li> Brainstorming: Mindmaps</li>
     <li>Screening : The Creative Brain by David Eagleman</li>
     <li> Uploading Images to the Blog & Blog Recap</li>
- <li><a href="constant_i_o.md">Group Discussion: Constant Input/Output Maps</a></li>
+ <li>Group Discussion: Constant Input/Output Maps</li>
     <li> <a href = "recommended_resources.md"> Recommended Resources </a> </li> 
 </ul>
     </td> 
