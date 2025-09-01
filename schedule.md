@@ -1,19 +1,3 @@
-<script type="text/javascript">
-  function refreshPage () {
-      var page_y = document.getElementsByTagName("body")[0].scrollTop;
-      window.location.href = window.location.href.split('?')[0] + '?page_y=' + page_y;
-  }
-  window.onload = function () {
-      setTimeout(refreshPage, 35000);
-      if ( window.location.href.indexOf('page_y') != -1 ) {
-          var match = window.location.href.split('?')[1].split("&")[0].split("=");
-          document.getElementsByTagName("body")[0].scrollTop = match[1];
-      }
-  }
-</script>
-
-
-
 ### DM-UY 1143 C Ideation and Prototyping
 ##### Fall 2025 • Katherine Bennett • Mon/Wed 10:00-11:50 • In-person room 309 @ 370 Jay Street
 
@@ -90,7 +74,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <tr>
     <td valign="top">wk 3<p>Wednesday Sept 17 & Monday Sept 22</p></td>
     <td valign="top">
-         <li> Flow Charts & Creating <a href = "assignmentBriefs/FlowCharts_ConstantIO.md">one for your Constant I/O project </a></li>
+         <li> Flow Charts & Creating <a href = "assignmentBriefs/FlowChart_ConstantIO.md">one for your Constant I/O project </a></li>
         <li> Future Project Kick-off </li>
         <li> Tool for Creativity: Imagination and Attitude: Yes, and</li>
         <li>Discuss: </li>
