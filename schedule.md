@@ -7,15 +7,12 @@
 *Git & Slack are living, dynamic sources. If there are any changes to the schedule in the syllabus, I will note these changes on git and slack  (announcement channel) AND in person during class.*
 
 Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu/training-and-reservations/">Tandon's MakerSpace.</a></strong> 
-
 <table min-width="100%">
 <tr>
     <th width="8%">week</th>
     <th width="46%">(In)Class</th>
     <th width="46%">Do For Homework <br> <br>(Assigned on Date Listed and due the following Saturday 9:00 AM EST)</th>
 </tr>
-
-
 <tr>
     <td valign="top">wk 1: <p>Wed Sept 3rd & Mon Sept 8th</p></td>
     <td valign="top">
