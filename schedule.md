@@ -98,9 +98,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </ul>
 </td>
 </tr>
-<td valign="top">wk 4<p>Feb 12 & TUESDAY 18</p></td>
+<td valign="top">wk 4<p>Wednesday September 24 & Monday September 29th</p></td>
     <td valign="top"> 
-        <li><a href ="Time_Management_System.md">Time Management System: Time Blocking & Task Management Matrix</a></li>
+        <li><a href ="tmTimeBlockingTaskManagement.md">Time Management System: Time Blocking & Task Management Matrix</a></li>
         <li> Divergent Thinking + Exercises : Lateral Thinking & Extending Effort Principle </li>
       <li> Screening: Everything is a Remix </li>
       <li> <a href = "Midterm.md">Midterm</a>
@@ -112,32 +112,33 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> Show Your Work </li>
         </ul>
     <li>Do:</li>
-    <li> <a href = "Midterm.md"> Identify the topic you wish to you persue for your Core Project.</a> Start researching it by finding 3 sources (traditional sources). Identify them, and write a short blurb on the value of that resource towards your project (this is the start of your annotated bibliography). </li>
+    <li> <a href = "Midterm.md"> Identify the topic you wish to you persue for your Future Project.</a> Start researching it by finding 3 sources (traditional sources). Identify them, and <bold>write a short blurb on the value of that resource towards your project </bold>(this is the start of your annotated bibliography). Post this under Future Project</li>
     <li> Write a short reflection about the divergent thinking exercises in class. Share your list of paper clip idea from your group as well as your sentences.</li>
-         <li><a href ="Time_Management_System.md">Time Management System: Time Block & Task Management </a>Try this out for 2-3 days and write a reflection of how it went. Post under "Time Management"</li>
+         <li><a href ="tmTimeBlockingTaskManagement.md">Time Management System: Time Block & Task Management </a>Try this out for 2-3 days and write a reflection of how it went. Post under "Time Management"</li>
     <li> Constant Input/Constant Ouput. Do the next steps in your Constant I/O project. Post a reflection of your progress under "Constant I/O"</li>
         <li> Post your thoughts after watching Everything is a Remix. Has this changed your thinking? How so or why not? Reflect. Post under "reflections"</li>
      <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
     </ul>
         </td><tr>
-<td valign="top">wk 5<p>Feb 19 & 24</td>
+<td valign="top">wk 5<p>Wednesday Oct 1 & Monday October 6</td>
     <td valign="top"> 
        <li> Creative Styles </li>
-       <li> Four Sight Questionaire</li>
         <li><a href ="ConceptMap.md"> Concept Maps</li></a>
         <li>Discuss Homework</li>
-          <li><a href = "Time_Management_System.md"> Discuss: Time Management Systems: Introduce KanBan System </a></li>
+          <li><a href = "tm_kanBan.md"> Discuss: Time Management Systems: Introduce KanBan System </a></li>
     </td>
      <td valign="top">
         <li>Read: </li>
             <li> Show Your Work </li>
     <li>Do:</li>
     <li> Try a Provocation Operation this week on yourself and/or with others. How did it go? Describe how your thinking changed, or where you got stuck. Write a short reflection and post under "reflections"</li>
-       <li> <a href = "Midterm.md">Core project Research </a> Check the <a href= "CoreWeekly.md"> Core Project Weekly Brief </a> for the specific steps.</li>
+       <li> <a href = "Midterm.md">Future project Research </a> Check the <a href= "FutureResearchWeekly.md"> Future Research Project Weekly Brief </a> for the specific steps.</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
-    <li><a href ="Time_Management_System.md">Time Management System: Kanban System</a></li>
+    <li><a href ="tm_kanBan.md">Time Management System: Kanban System</a></li>
     <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
         </td></tr>
+
+        
         <tr><td valign="top"> wk 6 <p> Feb 26 & March 3 </td>
             <td>  
                  <li>Stages of a Creative Process</li>
