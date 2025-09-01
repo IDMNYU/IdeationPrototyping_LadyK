@@ -1,12 +1,3 @@
-### DM-UY 1143 C Ideation and Prototyping
-##### Fall 2025 • Katherine Bennett • Mon/Wed 10:00-11:50 • In-person room 309 @ 370 Jay Street
-
-# Schedule
-**All dates and assignments are subject to change at the discretion of the professor! Git and slack are the official sources for all dates and assignments.**
-
-*Git & Slack are living, dynamic sources. If there are any changes to the schedule in the syllabus, I will note these changes on git and slack  (announcement channel) AND in person during class.*
-
-
 <script type="text/javascript">
   function refreshPage () {
       var page_y = document.getElementsByTagName("body")[0].scrollTop;
@@ -20,6 +11,18 @@
       }
   }
 </script>
+
+
+
+### DM-UY 1143 C Ideation and Prototyping
+##### Fall 2025 • Katherine Bennett • Mon/Wed 10:00-11:50 • In-person room 309 @ 370 Jay Street
+
+# Schedule
+**All dates and assignments are subject to change at the discretion of the professor! Git and slack are the official sources for all dates and assignments.**
+
+*Git & Slack are living, dynamic sources. If there are any changes to the schedule in the syllabus, I will note these changes on git and slack  (announcement channel) AND in person during class.*
+
+
 
 Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu/training-and-reservations/">Tandon's MakerSpace.</a></strong> 
 <table min-width="100%">
