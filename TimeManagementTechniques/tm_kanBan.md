@@ -14,12 +14,12 @@ There are many ways to create a KanBan system. Some students use post-it notes o
 
 Here is one from Toyota:
 
-<img src="Images/kanban-board.png" alt="KanBan Toyota" style=""/>
+<img src="../Images/kanban-board.png" alt="KanBan Toyota" style=""/>
 
 
 Here is one also tracking revision.
 
-<img src="Images/1716880173_Daily-management-system-kanban-board.png" alt="KanBan Revisions" style=""/>
+<img src="../Images/1716880173_Daily-management-system-kanban-board.png" alt="KanBan Revisions" style=""/>
 
 The key, is to ONLY have two or three tasks that you are working on, on a given day and a given time. It's been shown that having 3 medium tasks a day (or 1 big task, or 5 small tasks) is a good gauge to avoid being overwhelmed and burnout.
 

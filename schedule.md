@@ -133,15 +133,15 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> Show Your Work </li>
     <li>Do:</li>
     <li> Try a Provocation Operation this week on yourself and/or with others. How did it go? Describe how your thinking changed, or where you got stuck. Write a short reflection and post under "reflections"</li>
-       <li> <a href = "Midterm.md">Future project Research </a> Check the <a href= "assignmentBriefs/FutureResearchWeekly.md"> Future Research Project Weekly Brief </a> for the specific steps.</li>
+       <li> <a href = "Midterm.md">Future project Research </a>. Check the <a href= "assignmentBriefs/FutureResearchWeekly.md"> Future Research Project Weekly Brief </a> for the specific steps.</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="TimeManagementTechniques/tm_kanBan.md">Time Management System: Kanban System</a></li>
     <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
         </td></tr>
-<tr><td valign="top"> wk 6 <p> Wednesday October 8 & TUESDAY OCtober 14 </td>
-            <td>  
+<tr><td valign="top"> wk 6 <p> Wednesday October 8 & TUESDAY October 14 </td>
+             <td valign="top">  
                  <li>Stages of a Creative Process</li>
-                <li>Time Management:Willpower</li>
+                <li>Time Management: <a href ="TimeManagementTechniques/tm_Willpower.md">Willpower</a></li>
                 <li>Problem Statements & Challenge Statements</li>
                 <li><a href = "assignmentBriefs/StakeholderMaps.md">StakeHolder Maps</a></li>
             </td>
@@ -160,7 +160,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
          <li> Discuss Time Management: Willpower Part 2</li>
          <li>Stakeholder Exercise</li>
          <li>Problem/Project Statements</li>
-         <li>Introduction to other forms of research: [The Pocket Universal Methods of Design (UMD)](https://books.google.com/books/about/The_Pocket_Universal_Methods_of_Design_R.html?id=TmNCEAAAQBAJ) (see Slack Resources)</li>
+         <li>Introduction to other forms of research: <a href = "https://books.google.com/books/about/The_Pocket_Universal_Methods_of_Design_R.html?id=TmNCEAAAQBAJ" >The Pocket Universal Methods of Design (UMD)</a> (see Slack Resources)</li>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -174,7 +174,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </tr>
 <tr>
        <td valign="top">wk 8 <p> Wednesday October 22 & Monday October 27</td> 
-          <td>  <li>Storylines + Plots<li>
+          <td>  <li>Storylines + Plots</li>
               <li>Discuss: Self Assessment</li>
               <li> Future Project </li>
               <li> <a href = "TimeManagementTechniques/tm_Inventory_Audit.md">Time Management: Time Audit/Inventory </a>. (See also Slack Slides)</li>
