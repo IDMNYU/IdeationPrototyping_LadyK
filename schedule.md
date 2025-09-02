@@ -23,7 +23,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Discuss:</li>
         <li> Creativity: Different ways of thinking </li>
         <li> Lateral Thinking, Diverent Thinking, Convergent Thinking & exercises </li>
-      <li> <a href = "process_website.md"> Process Website:</a> set up together in-class. Post the URL on the Slack <strong>channel "studentsites" </strong>  </li>
+      <li> <a href = "processWebsite.md"> Process Website:</a> set up together in-class. Post the URL on the Slack <strong>channel "studentsites" </strong>  </li>
        <li>Constant Input or Constant Output Project</li>
     </td>
     <td valign="top">
@@ -123,8 +123,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         </td><tr>
 <td valign="top">wk 5<p>Wednesday Oct 1 & Monday October 6</td>
     <td valign="top"> 
-       <li> Creative Styles </li>
-        <li><a href ="assignmentBriefs/ConceptMap.md"> Concept Maps</li></a>
+       <li> Stakeholders</li>
+        <li>Stakeholder Exercise</li>
+        <li><a href = "assignmentBriefs/StakeholderMaps.md">StakeHolder Maps</a></li> <li>Introduction to other forms of research: <a href = "https://books.google.com/books/about/The_Pocket_Universal_Methods_of_Design_R.html?id=TmNCEAAAQBAJ" >The Pocket Universal Methods of Design (UMD)</a> (see Slack Resources)</li>
         <li>Discuss Homework</li>
           <li><a href = "TimeManagementTechniques/tm_kanBan.md"> Discuss: Time Management Systems: Introduce KanBan System </a></li>
     </td>
@@ -140,10 +141,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         </td></tr>
 <tr><td valign="top"> wk 6 <p> Wednesday October 8 & TUESDAY October 14 </td>
              <td valign="top">  
-                 <li>Stages of a Creative Process</li>
+                 <li>Stages of a Creative Process</li> <li><a href ="assignmentBriefs/ConceptMap.md"> Concept Maps</li></a>
                 <li>Time Management: <a href ="TimeManagementTechniques/tm_Willpower.md">Willpower</a></li>
-                <li>Problem Statements & Challenge Statements</li>
-                <li><a href = "assignmentBriefs/StakeholderMaps.md">StakeHolder Maps</a></li>
             </td>
             <td valign="top">
         <li>Read: </li>
@@ -158,9 +157,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <td valign="top">wk 7 <p> Wednesday October 15 & Monday October 20th</td>
     <td valign="top"> 
          <li> Discuss Time Management: Willpower Part 2</li>
-         <li>Stakeholder Exercise</li>
-         <li>Problem/Project Statements</li>
-         <li>Introduction to other forms of research: <a href = "https://books.google.com/books/about/The_Pocket_Universal_Methods_of_Design_R.html?id=TmNCEAAAQBAJ" >The Pocket Universal Methods of Design (UMD)</a> (see Slack Resources)</li>
+          <li>Problem Statements & Challenge Statements</li>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -174,9 +171,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </tr>
 <tr>
        <td valign="top">wk 8 <p> Wednesday October 22 & Monday October 27</td> 
-          <td>  <li>Storylines + Plots</li>
+          <td>  <li>Concept Map</li>
               <li>Discuss: Self Assessment</li>
-              <li> Future Project </li>
+              <li> Future Project Part 2</li>
               <li> <a href = "TimeManagementTechniques/tm_Inventory_Audit.md">Time Management: Time Audit/Inventory </a>. (See also Slack Slides)</li>
     </td>
      <td valign="top">
