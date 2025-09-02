@@ -142,6 +142,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <tr><td valign="top"> wk 6 <p> Wednesday October 8 & TUESDAY October 14 </td>
              <td valign="top">  
                  <li>Stages of a Creative Process</li> <li><a href ="assignmentBriefs/ConceptMap.md"> Concept Maps</li></a>
+                 <li>Introduction to Artifact</li>
                 <li>Time Management: <a href ="TimeManagementTechniques/tm_Willpower.md">Willpower</a></li>
             </td>
             <td valign="top">
@@ -158,6 +159,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top"> 
          <li> Discuss Time Management: Willpower Part 2</li>
           <li>Problem Statements & Challenge Statements</li>
+          <li>Prototyping Artifact</li>
+          <li>Thing from the Future</li>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -171,7 +174,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 </tr>
 <tr>
        <td valign="top">wk 8 <p> Wednesday October 22 & Monday October 27</td> 
-          <td>  <li>Concept Map</li>
+          <td><li>Dicuss: Problem Statements</li>
               <li>Discuss: Self Assessment</li>
               <li> Future Project Part 2</li>
               <li> <a href = "TimeManagementTechniques/tm_Inventory_Audit.md">Time Management: Time Audit/Inventory </a>. (See also Slack Slides)</li>
@@ -205,6 +208,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
                 <tr>
         <td valign="top">wk 10 Wednesday October 29th & Monday November 3rd</p></td>
         <td>
+            <li>Future Project: Ethics</li>
         <li>Discuss: Homework </li>
        <li>In-class exercises - Future Object</li>
        <li> Introduce and Discuss Final Presentations </li>
