@@ -1,4 +1,4 @@
-### DM-UY 1143 C Ideation and Prototyping
+### DM-UY 1143 Ideation and Prototyping
 ##### Fall 2025 • Katherine Bennett • Mon/Wed 10:00-11:50 • In-person room 309 @ 370 Jay Street
 
 * **Professor: Katherine Bennett**
