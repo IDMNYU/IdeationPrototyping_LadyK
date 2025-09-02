@@ -194,6 +194,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <td valign="top">wk 9 Wednesday October 22nd & Monday October 27th </td>
         <td>
         <li>Future Project</li>
+         <li>Future Project: Ethics</li>
         <li> Time Management: Time Inventory Part 2 </li>
     </td>
      <td valign="top">
@@ -208,7 +209,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
                 <tr>
         <td valign="top">wk 10 Wednesday October 29th & Monday November 3rd</p></td>
         <td>
-            <li>Future Project: Ethics</li>
         <li>Discuss: Homework </li>
        <li>In-class exercises - Future Object</li>
        <li> Introduce and Discuss Final Presentations </li>
