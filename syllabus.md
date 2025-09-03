@@ -22,7 +22,7 @@ _~Albert Einstein_
 
 In this class, the creative process will be investigated in order to generate ideas for art, design, technology, and business endeavors. The course will show how ideation, design research &amp; thinking, and prototyping can inspire, inform, and bring **depth** to what one ultimately creates. Students will expand their arsenal of design research skills, learn how to think critically about their audience, content, form, and processes, as well as, understand the importance of utilizing more than one research and design strategy.
 
-![Screenshot of the path of a creative process](../../Images/slack_icon.jpeg) 
+![Screenshot of the path of a creative process](/Images/slack_icon.jpeg) 
 
 Prerequisite: None
 
@@ -32,7 +32,7 @@ Prerequisite: None
 
 #### [Slack workspace](https://ideationproto-guf4117.slack.com) The URL is:  You must first have an account with Slack. Once you've signed up with Slack, you may join our workspace using the following link (only good for 30 days): 
 
-[**Link to join Slack**](https://join.slack.com/t/slack-ltu1368/shared_invite/zt-2pt222r5y-rZzwHjZabUv9D9YWmiHwkg)
+[**Link to join Slack**](https://forms.gle/2ZGJsKULnJhgM3EE8)
 
 # Syllabus Short Cuts:
 [Academic Integrity](#Academic-Integrity)\
@@ -111,7 +111,7 @@ There will be discrete team and individual exercises and projects that require y
 
 [Back To The Top](#Syllabus-Short-Cuts)
 
-### Time Estimates Per Week for Homework
+### Time Estimate Per Week for Homework
 
 These are ball-park time estimates for various homework assignments given in this course. These estimates will vary per student, as they also will throughout the semester. In the beginning of the semester, the time will be spread across the assignments. As various assignments wrap up towards the end of the semester, that time will then be required to be dedicated towards The Future project. 
 
@@ -119,7 +119,7 @@ Please manage your time and do. not. do. your. homework. in. one. sitting. It wi
 
 * Constant I/O Project - 60 minutes
 * Time Management - 15-25 minutes
-* Core Project Or Future Project - 60-180 minutes
+* Future Project - 60-180 minutes
 * Updating Blog with work and written reflections - 30-90 minutes
 * Readings from required books and links - 30 minutes
 
@@ -208,10 +208,10 @@ Incomplete or unsatisfactory work (lacking depth and notable development strides
 
 *   5% Class participation: discussion and feedback of your peers, cognitive presence in class, discussion of your work and challenges, your activity within the class community inside and outside of class
 *   5% [Self Assessments](self_assessments.md) (2.5% each)
-*   5%  [Design Problem](designProblem.md)
+*   5%  [Artifact](designProblem.md)
 *   10% [Constant Input/Output](constant_input_output.md)
 *   20% [Process Website](process_website.md), including all written reflections for ALL posts, including time Management, Class exercises, News Reflections, Article reflections
-*   20% [Core Project](Midterm.md)
+*   20% [Future Research Project](Midterm.md)
 *   20% [Future Project Development](Future.md) 
 *   15% Project Final Presentation + Process
 
@@ -253,9 +253,9 @@ Late work beyond two weeks is submitted only under the advisement of the profess
 
 ### Using Generative AI
 
-Should a student find the need to use AI for their coursework, they are required to: 1. discuss the need and 2. how they used it on their blog, 3. attaching screen shots of the correspondence.
+Should a student find the need to use AI for their coursework, they are required to: 1. discuss the need and 2. how they used it on their blog, 3. attaching screen shots of the ENTIRE correspondence.
 
-This includes AI suggestions, any collaboration with AI, and any AI output whether indirect or direct. It is expected that you work and reflections are thoughful, supported, and have substance, documenting your work and it's evolution.
+This includes any form AI suggestions, any collaboration with AI, and any AI output whether indirect or direct. It is expected that you work and reflections are thoughful, supported, and have substance, documenting your work and it's evolution of your work. All work is to be "of your voice."
 
 Course work submitted without this annotation, discussion, and documentation will be considered in violation of the [NYU Student Code of Conduct](https://engineering.nyu.edu/life-tandon/student-life/student-advocacy/student-code-conduct#chapter-id-34265).
 

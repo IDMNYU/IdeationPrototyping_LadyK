@@ -28,10 +28,10 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </td>
     <td valign="top">
     <bold> Due on By Saturday Sept 13 9:00 am. Post on your Process site under specified headings/categories: </bold>
-    <li>Join Slack via this <a href="">link </a></li> 
+    <li>Join Slack via this <a href="https://join.slack.com/t/ideationproto-sg04470/shared_invite/zt-3ce65d1ef-8rDoWAxQ_wrXT041mzKa4Q">link </a></li> 
     <li> <a href = "Sketchbook.md"> Get a sketchbook and the 3-6 drawing tools (see the list)</a></li>
-    <li> <a href = "">Fill out the class survey </a></li>
-    <li>Acquire texts:  <a href = "https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X"> Show Your Work by Austin Kleon </a>
+    <li> <a href = "https://forms.gle/2ZGJsKULnJhgM3EE8">Fill out the class survey </a></li>
+    <li>Acquire text:  <a href = "https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X"> Show Your Work by Austin Kleon </a>
     Start reading "Show Your Work"</li>
  <li>Read:</li>
  <ul><li><a href = "https://alistapart.com/article/sketching-the-visual-thinking-power-tool">Rohde, Mike. “Sketching: the Visual Thinking Power Tool.” A List Apart. January 25, 2011. </a>Due Feb 1</li>
