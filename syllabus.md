@@ -321,7 +321,6 @@ Faculty can provide course accommodations/modifications only after receipt of an
 *   Digital Storage (Thumb Drives or External Hard Drive, Laptop, etc)
 * 	Youtube or Vimeo Account
 *   paper, scissors/craft knife, hot glue + gun, tape, toothpicks, popsicle sticks, string, cardboard (save your cardboard shipping boxes, etc), legos, tinkertoys, wood, etc.
-* Multi-colored Index cards 3 x 5  (Rainbow) [example] (https://www.amazon.com/Index-300-Count-Weight-Colors-Multicolor/dp/B0CHR8Y58T/ref=asc_df_B0CHR8Y58T?mcid=36adce37776032cc8b29d3d61ff81bb9&hvocijid=16218145468855517297-B0CHR8Y58T-&hvexpln=73&tag=hyprod-20&linkCode=df0&hvadid=721245378154&hvpos=&hvnetw=g&hvrand=16218145468855517297&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004354&hvtargid=pla-2281435180778&th=1)
 * Sharpie or other markers
 * [Show Your Work by Austin Kleon](https://www.goodreads.com/book/show/18290401-show-your-work?ref=nav_sb_ss_1_18)
 * [Creative Quest by Questlove - Excerpt - Chapter 1: The Spark](https://www.goodreads.com/book/show/36260417-creative-quest) (PDF available in Slack)
