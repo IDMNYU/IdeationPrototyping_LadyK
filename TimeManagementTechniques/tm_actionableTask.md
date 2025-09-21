@@ -13,6 +13,8 @@ For example:
 
 * Can you make a cake in one sitting? Well, first you need a recipe. Then you need the supplies. Then you need time to bake the cake. Each of these can be done at different times. The important thing to realize that each needs an allotted time to be executed. 
 
+<img src ="https://github.com/IDMNYU/IdeationPrototyping_LadyK/blob/main/Images/actionableTask.png" width ="540" height = "1200"/>
+
 
 Break your tasks down into actionable (do-able in one sitting)/smaller digestible steps. 
 
