@@ -74,26 +74,28 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
 <tr>
     <td valign="top">wk 3<p>Wednesday Sept 17 & Monday Sept 22</p></td>
     <td valign="top">
-         <li> Flow Charts & Creating <a href = "assignmentBriefs/FlowChart_ConstantIO.md">one for your Constant I/O project </a></li>
+         <li><strike> Flow Charts & Creating <a href = "assignmentBriefs/FlowChart_ConstantIO.md"> one for your Constant I/O project </a></strike></li>
         <li> Future Project Kick-off </li>
         <li> Tool for Creativity: Imagination and Attitude: Yes, and</li>
         <li>Discuss: </li>
     <ul>
      <li>Creativity & Assumptions & James Webb Young</li>
         <li>Cabinets of Curiosities & Collecting </li>
-        <li>Extra: <a href = "https://www.nytimes.com/2022/03/25/opinion/questlove-inspiration-collection.html" >Questlove's thoughts on collecting - New York Times article</a></li>
+        <li> <a href = "https://www.nytimes.com/2022/03/25/opinion/questlove-inspiration-collection.html" >Questlove's thoughts on collecting - New York Times article</a></li>
         <li>Time Management System: <a href = "TimeManagementTechniques/tm_actionableTask.md" >Actionable Tasks/Steps </a></li>
 </td>  
     <td valign="top">
         <li>Read: </li>
         <ul>
-            <li> Show Your Work </li>
+            <li><a href = "https://www.nytimes.com/2022/03/25/opinion/questlove-inspiration-collection.html" >Questlove's thoughts on collecting - New York Times article</a>. Be ready to talk about it by Oct 8th </li>
+            <strike> <li> Show Your Work </li> </strike>
         </ul>
     <li>Do: </li>
       <ul>
-  <li>Create your <a href = "assignmentBriefs/FlowChart_ConstantIO.md"> flow chart of action </a> for your Constant I/O project. Post it and write a short reflection</li>
+  <li><strike>Create your <a href = "assignmentBriefs/FlowChart_ConstantIO.md"> flow chart of action </a> for your Constant I/O project. Post it and write a short reflection</li></strike>
+  <li> Constant Input/Output: Some of you had really great "How Might We"'s and 5 Whys. Some of you idenitified problems or matters to resolve. Begin your Constant I/O project. Many of you will begin by working on these issues's you've defined. </li>
   <li> Tell us about your personal "Yes, and" experience. What happened? How did it go? What did you notice? Write a short reflection and post it under "Reflections" </li>
-  <li> Create a <bold> Mind-Map </bold> exploring possibilities to explore for  <a href = "Midterm.md">Future Project Topic Ideas</a>. Include a short reflection to tell me what you are thinking at the end of the exercise. What questions do you have? </li>. Remember: We are only exploring ideas at this point. Not executing the entire project.
+  <li> Create a <bold> Mind-Map </bold> exploring possibilities to explore for  <a href = "Midterm.md">Future Project Topic Ideas</a>. Include a short reflection to tell me what you are thinking at the end of the exercise. What questions do you have? </li>. Remember: We are only exploring ideas & topids at this point. Not executing the entire project.
   <li><a href ="TimeManagementTechniques/tm_actionableTask.md">Time Management System: Actionable Tasks</a></li>
     <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
 </ul>
@@ -110,10 +112,11 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
      <td valign="top">
         <li>Read: </li>
         <ul>
+             <li><a href = "https://www.nytimes.com/2022/03/25/opinion/questlove-inspiration-collection.html" >Questlove's thoughts on collecting - New York Times article</a>. Be ready to talk about it by Oct 8th </li>
             <li> Show Your Work </li>
         </ul>
     <li>Do:</li>
-    <li> <a href = "Midterm.md"> Identify the topic you wish to you persue for your Future Project.</a> Start researching it by finding 3 sources (traditional sources). Identify them, and <bold>write a short blurb on the value of that resource towards your project </bold>(this is the start of your annotated bibliography). Post this under Future Project</li>
+    <li> <a href = "Midterm.md"> Identify the topic you wish to you persue for your Future Project.</a> Start researching and COLLECTING  by finding 3 sources (traditional sources). Identify them, and <bold>write a short blurb on the value of that resource towards your project </bold>(this is the start of your annotated bibliography). Post this under Future Project</li>
     <li> Write a short reflection about the divergent thinking exercises in class. Share your list of paper clip idea from your group as well as your sentences.</li>
          <li><a href ="TimeManagementTechniques/tmTimeBlockingTaskManagement.md">Time Management System: Time Block & Task Management </a>Try this out for 2-3 days and write a reflection of how it went. Post under "Time Management"</li>
     <li> Constant Input/Constant Ouput. Do the next steps in your Constant I/O project. Post a reflection of your progress under "Constant I/O"</li>
