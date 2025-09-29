@@ -116,11 +116,11 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> Show Your Work </li>
         </ul>
     <li>Do:</li>
-    <li> <a href = "Midterm.md"> Identify the topic you wish to you persue for your Future Project.</a> Start researching and COLLECTING  by finding 3 sources (traditional sources). Identify them, and <bold>write a short blurb on the value of that resource towards your project </bold>(this is the start of your annotated bibliography). Post this under Future Project</li>
+    <li> <a href = "Midterm.md">1.) Do more brainstorming/mind-mapping for the subject area you are interested in. Help me to understand your interest and all the various aspects. Feel free to make a bullet point list. 2)Identify the topic you wish to you persue for your Future Project.</a> Start researching and COLLECTING  by finding 3 sources (traditional sources). Identify them, and <bold>write a short blurb on the value of that resource towards your project </bold>(this is the start of your annotated bibliography). Post this under Future Project</li>
     <li> Write a short reflection about the divergent thinking exercises in class. Share your list of paper clip idea from your group as well as your sentences.</li>
          <li><a href ="TimeManagementTechniques/tmTimeBlockingTaskManagement.md">Time Management System: Time Block & Task Management </a>Try this out for 2-3 days and write a reflection of how it went. Post under "Time Management"</li>
     <li> Constant Input/Constant Ouput. Do the next steps in your Constant I/O project. Post a reflection of your progress under "Constant I/O"</li>
-        <li> Post your thoughts after watching Everything is a Remix. Has this changed your thinking? How so or why not? Reflect. Post under "reflections"</li>
+        <strike> <li> Post your thoughts after watching Everything is a Remix. Has this changed your thinking? How so or why not? Reflect. Post under "reflections"</li> </strike>
      <li> Get <a href = "https://makerspace.engineering.nyu.edu/"> NYU MakerSpace Orientation and Training </a>  or <a href = "https://wp.nyu.edu/idmtech/"> IDM Maker Space orientation and Training</li> </a>
     </ul>
         </td><tr>
@@ -137,6 +137,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> Show Your Work </li>
     <li>Do:</li>
     <li> Try a Provocation Operation this week on yourself and/or with others. How did it go? Describe how your thinking changed, or where you got stuck. Write a short reflection and post under "reflections"</li>
+    <li> Post your thoughts after watching Everything is a Remix. Has this changed your thinking? How so or why not? Reflect. Post under "reflections"</li>
        <li> <a href = "Midterm.md">Future project Research </a>. Check the <a href= "assignmentBriefs/FutureResearchWeekly.md"> Future Research Project Weekly Brief </a> for the specific steps.</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="TimeManagementTechniques/tm_kanBan.md">Time Management System: Kanban System</a></li>
