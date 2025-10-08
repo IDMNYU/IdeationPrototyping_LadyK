@@ -7,7 +7,7 @@ Design a new or undiscovered tool with reference to your Future Research Project
 
 Use prototyping to futher your idea and making.
 
-- Use the Crazy Eight Exercise to help you think of options. Continue with a mindmap to develop
+- Use the [Crazy Eight Exercise](https://miro.com/app/board/uXjVI-siAKA=/?share_link_id=441850070749) to help you think of options. Continue with a mindmap to develop
 
 - Sketch your idea out, in many forms and perspectives
 
