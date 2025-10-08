@@ -4,7 +4,7 @@
 
 20% of your final grade
 
-[2.5% (separate) of your final grade Artifact: Tool Prototype & Development](assignementBriefs/Artifact_Tool.md)
+[2.5% (separate) of your final grade Artifact: Tool Prototype & Development](/assignementBriefs/Artifact_Tool.md)
 
 ### Due Week 7 to your Process site:
 
