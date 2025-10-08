@@ -1,5 +1,5 @@
-### DM-UY 1143 A Ideation and Prototyping
-##### Spring 2025 • Katherine Bennett • Mon/Wed 14:00-15:50 • In-person room 309 @ 370 Jay Street
+### DM-UY 1143  Ideation and Prototyping
+##### Katherine Bennett 
 
 # Future Project 
 
@@ -7,7 +7,7 @@
 
 For our final project, The Future, you will be creating a speculative design project. This project can be done as a team or as an individual.
 
-This document stands as an overview of the project. Please refer to the [Future Weekly Briefing](Future_weeklyBrief.md) to see how to develop this project over the subsequent weeks.
+This document stands as an overview of the project. Please refer to the [Future Weekly Briefing](assignmentBriefs/Future_weeklyBrief.md) to see how to develop this project over the subsequent weeks.
 
 Imagine our civilization at least 100-200 years from now. Things have either collapsed beyond repair or life has become a harmonious dream. Through some crazy combination of wormholes and string theory, you have the opportunity to create a piece of information that will be sent back to the current population.
 
@@ -47,7 +47,7 @@ You will develop this world and project through the following assignments over t
 * Future Object/Artifact (High-fidelity 3-D prototype), including brainstorming and ideation<strong> </strong>
 * Timeline of the problem/situation/challenge and surrounding events
 * Evidence of World Research -  <strong>  annotated  </strong>
-* Evidence of Idea Research - <strong> diversity of sources, via an [annotated bibliography](Future_Annotated_Bibliography.md) </strong>
+* Evidence of Idea Research - <strong> diversity of sources, via an [annotated bibliography](assignmentBriefs/Future_Annotated_Bibliography.md) </strong>
 * Storyboard  -  see Slack for links<strong>  </strong>
 
 ____________________________________________________________
