@@ -3,8 +3,9 @@
 
 # [3 Little Pigs](3LittlePigs.md =x640)
 
-
-<image src="../Images/3PigsHomes.jpg" style="width:50%" "display: block; margin: 0 auto"/>> 
+<p align="center">
+<image src="../Images/3PigsHomes.jpg" style="width:50%"/>
+</p>
 
 ## Group Exercise to Identify low, medium & high project risks
 
@@ -26,7 +27,8 @@ After a short discussion, group members then write feedback on the post-it notes
 # High Risk         |     Somewhat rigid. 
 # Medium Risk       |     Immovable. Low Risk
 
-
-<img src= "../Images/3Pigs.jpg" style="width:50%" "display: block; margin: 0 auto"/>
+<p align="center">
+<img src= "../Images/3Pigs.jpg" style="width:50%"/>
+</p>
 
 Afterwards, use this feedback to help your project onto more solid grounds. Create How Might We statements to identify next steps. Post these statements and a general reflection regarding the feedback process on your site, under "Reflections"
