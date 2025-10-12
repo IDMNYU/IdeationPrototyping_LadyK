@@ -153,7 +153,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li>Read: </li>
             <li> Show Your Work </li>
       <li>Do:</li>
-      <li> Post a short reflection on the group activity -<a href="exercises/3LittlePigs.html">3 Little Pigs</a>
+      <li> Post a short reflection on the group activity -<a href="https://github.com/IDMNYU/IdeationPrototyping_LadyK/blob/main/exercises/3LittlePigs.html">3 Little Pigs</a>
 . What realizations or new directions are you planning to explore?</li>
      <li>Work on <a href = "assignmentBriefs/FutureResearchWeekly.md">Future Project Research </a>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
