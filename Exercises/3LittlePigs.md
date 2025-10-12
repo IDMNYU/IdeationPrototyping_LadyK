@@ -27,7 +27,7 @@ After a short discussion, group members then write feedback on the post-it notes
  | <div style="width:30%">   Weak or could fall apart.</div> |
  Medium Risk         |     Somewhat rigid. 
  High Risk       |     Immovable. Low Risk </div>
- _______________________________________________________________
+
 
 <p align="center">
 <img src= "../Images/3Pigs.jpg" style="width:50%"/>
