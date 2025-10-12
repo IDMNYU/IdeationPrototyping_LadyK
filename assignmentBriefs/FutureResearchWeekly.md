@@ -4,6 +4,17 @@
 
 This document serves as a weekly guide of how to advance your [Future Research Project](Midterm.md).
 
+#### Week 6
+
+1. Do the first stage of exploring what you might prototype as an [Artifact: Tool](Artifact_Tool.md) for your Future Research Project.
+
+2. Identify 3 traditional resources (visit the library), that help you to understand the scope and different aspects of this issue. Post about each with a short reflectio of their value towards your interests in your project. 
+
+3. Add to the timeline which outlines the events leading up to, contributing to, and/or deepening this situation. (due in a couple weeks). This timeline will have iterations over the next few week.
+
+4. Add to the moodboard to visually describe the different levels and scope of this issue. (due in a couple weeks). This moodboard will have iterations over the next few weeks. (NO PINTEREST)
+
+
 #### Week 5: Collecting Materials & getting more specific
 
 0. Get more specific with your topic. What aspect of your topic do you wish to explore? Brainstorm or mindmap to figure this out. If you are unsure about possibilities, do some research to idenitfy them. Document your process with images, links, and reflections.
@@ -17,6 +28,3 @@ This document serves as a weekly guide of how to advance your [Future Research P
 
 3. Begin creating a moodboard to visually describe the different levels and scope of this issue. (due in a couple weeks). This moodboard will have iterations over the next few weeks. (NO PINTEREST)
 
-#### Week 6
-
-1. Do the first stage of exploring what you might prototype as an [Artifact: Tool](Artifact_Tool.md) for your Future Research Project.
