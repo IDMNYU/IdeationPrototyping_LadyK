@@ -4,7 +4,7 @@
 # [3 Little Pigs](3LittlePigs.md =x640)
 
 
-<image src="../Images/3PigsHomes.jpg" style="width:50%"/>> 
+<image src="../Images/3PigsHomes.jpg" style="width:50%" "display: block; margin: 0 auto"/>> 
 
 ## Group Exercise to Identify low, medium & high project risks
 
@@ -23,10 +23,10 @@ After a short discussion, group members then write feedback on the post-it notes
 # __Made of Straw__ (yellow)   |    __Made of Sticks__ (green)   |   __Made of Stone__ (blue)
 
 # Weak or could fall apart. |
-High Risk         |     Somewhat rigid. 
-Medium Risk       |     Immovable. Low Risk
+# High Risk         |     Somewhat rigid. 
+# Medium Risk       |     Immovable. Low Risk
 
 
-<img src= "../Images/3Pigs.jpg" style="width:50%"/>
+<img src= "../Images/3Pigs.jpg" style="width:50%" "display: block; margin: 0 auto"/>
 
 Afterwards, use this feedback to help your project onto more solid grounds. Create How Might We statements to identify next steps. Post these statements and a general reflection regarding the feedback process on your site, under "Reflections"
