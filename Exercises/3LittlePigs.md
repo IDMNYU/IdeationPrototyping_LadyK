@@ -25,9 +25,9 @@ After a short discussion, group members then write feedback on the post-it notes
 
 
 
-# | High Risk | Weak or could fall apart. |
-| Medium Risk  |    Somewhat rigid. |
-| Low Risk  |  Immovable. Low Risk 
+### | High Risk | Weak or could fall apart. |
+### | Medium Risk  |    Somewhat rigid. |
+###| Low Risk  |  Immovable. Low Risk 
 
 
 <p align="center">
