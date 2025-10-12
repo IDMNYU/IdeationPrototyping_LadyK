@@ -22,9 +22,9 @@ Within your group, introduce your project with a short elevator pitch. Present t
 After a short discussion, group members then write feedback on the post-it notes, for straw, sticks and stone, with reference to aspects of your project that are strong, weak, and inbetween. Underneath each rating, they will give you feedback & ideas.
 
 <div align="center">
-| __Made of Straw__ (yellow) | __Made of Sticks__ (green) | __Made of Stone__ (blue) |
+| **Made of Straw** (yellow) | **Made of Sticks** (green) | **Made of Stone** (blue) |
 |-----------------------------|-----------------------------|---------------------------|
-| ### High Risk               | ### Medium Risk             | ### Low Risk              |
+| **High Risk**               | **Medium Risk**             | **Low Risk**              |
 | Weak or could fall apart.   | Somewhat rigid.             | Immovable. Low Risk.      |
 </div>
 
