@@ -23,7 +23,7 @@ After a short discussion, group members then write feedback on the post-it notes
 
 | __Made of Straw__ (yellow) | __Made of Sticks__ (green) | __Made of Stone__ (blue) |
 |-----------------------------|-----------------------------|---------------------------|
-| ### High Risk               | ### Medium Risk             | ### Low Risk              |
+| High Risk               |  Medium Risk             |  Low Risk              |
 | Weak or could fall apart.   | Somewhat rigid.             | Immovable. Low Risk.      |
     
 
