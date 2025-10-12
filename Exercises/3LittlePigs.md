@@ -1,7 +1,7 @@
 ### DM-UY 1143 Ideation and Prototyping
 
 
-# [3 Little Pigs](3LittlePigs.md =x640)
+# Three Little Pigs
 
 <p align="center">
 <image src="../Images/3PigsHomes.jpg" style="width:50%"/>
@@ -24,9 +24,9 @@ After a short discussion, group members then write feedback on the post-it notes
 # __Made of Straw__ (yellow)   |    __Made of Sticks__ (green)   |   __Made of Stone__ (blue)
 
 
- | <div style="width:30%">   Weak or could fall apart.</div> |
- Medium Risk         |     Somewhat rigid. 
- High Risk       |     Immovable. Low Risk </div>
+  # High Risk | Weak or could fall apart.|
+ # Medium Risk         |     Somewhat rigid. |
+ # Low Risk       |     Immovable. Low Risk 
 
 
 <p align="center">
