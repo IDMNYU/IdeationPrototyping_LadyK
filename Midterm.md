@@ -8,9 +8,9 @@
 
 
 
-### Due Week 7 to your Process site:
+### Due The Week 8's to posted to your Process site:
 
-Your current standing of the following:
+Your current standing/iteration of the following:
 - Concept Map
 - Annotated Bibliography
 - Problem statement(s)
@@ -35,6 +35,8 @@ You are to show evidence of your entire process. Remember the principles of Crea
 	4) Seek Novelty - Dream big and go far.
 
 Use Divergent and Convergent thinking tools in each step! Show evidence of your process through documentation of exercises, images and reflections. Remember, I'm looking at the depth of your process; not simply where you end up.
+
+## See [The Future Research Weekly](assignmentBriefs/FutureResearchWeekly.md)
 
 
 ## Possible Example Topics:
