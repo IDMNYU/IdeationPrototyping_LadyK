@@ -3,7 +3,8 @@
 
 # [3 Little Pigs](3LittlePigs.md =x640)
 
-![Three Little Pigs By Roger M Fred](../Images/3PigsHomes.jpg)
+
+<image src="../Images/3PigsHomes.jpg" width="640"/> 
 
 ## Group Exercise to Identify low, medium & high project risks
 
@@ -21,7 +22,7 @@ After a short discussion, group members then write feedback on the post-it notes
 
 # __Made of Straw__ (yellow)   |    __Made of Sticks__ (green)   |   __Made of Stone__ (blue)
 
-Weak or could fall apart. High Risk        |       Somewhat rigid. Medium Risk       |       Immovable. Low Risk
+# Weak or could fall apart. High Risk        |       Somewhat rigid. Medium Risk       |       Immovable. Low Risk
 
 
 ![Three Little Pigs with materials](../Images/3Pigs.jpg)
