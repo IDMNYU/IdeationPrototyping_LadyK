@@ -24,13 +24,14 @@ After a short discussion, group members then write feedback on the post-it notes
 # __Made of Straw__ (yellow)   |    __Made of Sticks__ (green)   |   __Made of Stone__ (blue)
 
 
-  # High Risk | Weak or could fall apart.|
- # Medium Risk         |     Somewhat rigid. |
- # Low Risk       |     Immovable. Low Risk 
+|:----------|--------:|
+| High Risk | Weak or could fall apart. |
+| Medium Risk  |    Somewhat rigid. |
+| Low Risk  |  Immovable. Low Risk 
 
 
 <p align="center">
 <img src= "../Images/3Pigs.jpg" style="width:50%"/>
 </p>
 
-Afterwards, use this feedback to help your project onto more solid grounds. Create How Might We statements to identify next steps. Post these statements and a general reflection regarding the feedback process on your site, under "Reflections"
+## Afterwards, use this feedback to help your project onto more solid grounds. Create How Might We statements to identify next steps. Post these statements and a general reflection regarding the feedback process on your site, under "Reflections"
