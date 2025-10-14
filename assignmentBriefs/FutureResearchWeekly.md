@@ -14,6 +14,7 @@ This document serves as a weekly guide of how to advance your [Future Research P
 
 4. Add to the moodboard to visually describe the different levels and scope of this issue. (due in a couple weeks). This moodboard will have iterations over the next few weeks. (NO PINTEREST)
 
+5. Identify & Collect Stakeholder. Note roles and relationships. Put this information in a list.
 
 #### Week 5: Collecting Materials & getting more specific
 
