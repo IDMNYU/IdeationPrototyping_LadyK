@@ -16,6 +16,8 @@ This document serves as a weekly guide of how to advance your [Future Research P
 
 5. Identify & Collect Stakeholder. Note roles and relationships. Put this information in a list.
 
+6. Do you have thoughts - mindmaps, lists, brainstorming - exploring your artifact tool? Please post it.
+
 #### Week 5: Collecting Materials & getting more specific
 
 0. Get more specific with your topic. What aspect of your topic do you wish to explore? Brainstorm or mindmap to figure this out. If you are unsure about possibilities, do some research to idenitfy them. Document your process with images, links, and reflections.
