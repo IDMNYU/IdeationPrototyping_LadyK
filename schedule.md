@@ -164,8 +164,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top"> 
          <li> Discuss Time Management: Willpower Part 2</li>
           <li>Problem Statements & Challenge Statements</li>
-          <li>Prototyping Artifact</li>
-          <li>Thing from the Future</li>
+          <li><strike>Prototyping Artifact</strike></li>
+          <li><stike>Thing from the Future</stike></li>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -181,7 +181,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
        <td valign="top">wk 8 <p> Wednesday October 22 & Monday October 27</td> 
           <td><li>Dicuss: Problem Statements</li>
               <li>Discuss: Self Assessment</li>
-              <li> Future Project Part 2</li>
+              <li><strike> Future Project Part 2<strike></li>
               <li> <a href = "TimeManagementTechniques/tm_Inventory_Audit.md">Time Management: Time Audit/Inventory </a>. (See also Slack Slides)</li>
     </td>
      <td valign="top">
@@ -189,7 +189,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> FINISH: Show Your Work </li>
     <li>Do:</li>
        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
-       <li> <a href = "Future.md" >Future Project Part 2</a>. Please see the <a href = "assignmentBriefs/Future_weeklyBrief.md" >Future Weekly Brief </a> as to how to proceed.  </li>
        <li>Finish/Refine your <a href = "assignmentBriefs/FutureResearchWeekly.md">Future Research Project </a> documents</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="TimeManagementTechniques/tm_Inventory_Audit.md">Time Management System: Time Inventory</a></li>
