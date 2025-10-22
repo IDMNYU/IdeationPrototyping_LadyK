@@ -6,9 +6,11 @@ This document serves as a weekly guide of how to advance your [Future Research P
 
 #### Week 7
 
-0. Take bigger strides with your work. Post your iterations to documents. This will be the last week for many of you to strengthen your research foundation.
+0. Take bigger strides with your work. Post your iterations to documents. This will be the last week for many of you to strengthen your research foundation.s
 
 1. Identify 3 (more) traditional or nontraditional (UMR) resources (visit the library), that help you to understand the scope and different aspects of this issue. <bold> Your research should start beinging more specific and refined </bold> Post about each with a short reflection of their value towards your interests in your project.
+
+2. Create a draft of your topic's Concept Map.
 
 3. Add to the timeline which outlines the events leading up to, contributing to, and/or deepening this situation. (due in a couple weeks). This timeline will have iterations over the next few week.
 
