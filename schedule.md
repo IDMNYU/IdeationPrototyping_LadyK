@@ -181,7 +181,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
        <td valign="top">wk 8 <p> Wednesday October 22 & Monday October 27</td> 
           <td><li>Dicuss: Problem Statements</li>
               <li>Discuss: Self Assessment</li>
-              <li><strike> Future Project Part 2<strike></li>
+              <li><strike> Future Project Part 2</strike></li>
               <li> <a href = "TimeManagementTechniques/tm_Inventory_Audit.md">Time Management: Time Audit/Inventory </a>. (See also Slack Slides)</li>
     </td>
      <td valign="top">
