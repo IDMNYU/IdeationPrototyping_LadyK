@@ -172,7 +172,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> Show Your Work </li>
     <li>Do:</li>
        <li>Work on <a href = "assignmentBriefs/FutureResearchWeekly.md">Future Project Research</a></li>
-       <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
+       <li> Post exercises done in class or outlined in class with a reflection. 2 Groups of I Like, I wish, I wonder. Post under "Reflections"</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> 
     <li><a href ="TimeManagementTechniques/tm_Willpower.md">Time Management System: Willpower Part 2</a></li>
         </td> 
