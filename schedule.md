@@ -165,7 +165,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
          <li> Discuss Time Management: Willpower Part 2</li>
           <li>Problem Statements & Challenge Statements</li>
           <li><strike>Prototyping Artifact</strike></li>
-          <li><stike>Thing from the Future</stike></li>
+          <li><strike>Thing from the Future</stike></li>
     </td>
      <td valign="top">
         <li>Read: </li>
