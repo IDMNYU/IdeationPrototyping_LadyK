@@ -191,26 +191,24 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
        <li>Finish/Refine your <a href = "assignmentBriefs/FutureResearchWeekly.md">Future Research Project </a> documents</li>
         <strike> <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> </strike>
     <li><a href ="TimeManagementTechniques/tm_Inventory_Audit.md">Time Management System: Time Inventory</a></li>
-    <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due </strong>. Only do "Self". The others you will do at the end of the semester.</li>
+    <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due Nov 15</strong>. Only do "Self". The others you will do at the end of the semester.</li>
         </td> </tr>
-       <tr>
-        <td valign="top">wk 9 Wednesday October 22nd & Monday October 27th </td>
-        <td>
-        <li>Future Project</li>
+      <tr>
+       <td valign="top">wk 9 <p>Wednesday October 29th & Monday November 3rd</td> 
+       <li>Future Project</li>
         <li>Thing from the Future</li>
         <li>Time Management: Time Inventory Part 2 </li>
-    </td>
-     <td valign="top">
+         <td valign="top">
     <li>Do:</li>
     <li>Read: </li>
             <li> Creative Quest by Questlove</li>
         <li><a href = "assignmentBriefs/Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="TimeManagementTechniques/tm_Inventory_Audit.md">Time Audit Part 2 : Unscheduled time</a></li> 
-    <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due XXX</strong>. Only do "Self". The others you will do at the end of the semester.</li>
+    <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due Nov 15</strong>. Only do "Self". The others you will do at the end of the semester.</li>
         </td></tr>
                 <tr>
-        <td valign="top">wk 10 Wednesday October 29th & Monday November 3rd</p></td>
+        <td valign="top">wk 10 Wednesday November 5th & Monday November 10th</p></td>
         <td>
         <li>Discuss: Homework </li>
        <li>Future Project: Ethics</li>
@@ -229,7 +227,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr>
         <tr>
-        <td valign="top">wk 11 Wednesday November 5th & Monday November 10th</td>
+        <td valign="top">wk 11  Wednesday November 12 & Monday November 17th</td>
         <td>
         <li>Discuss: Homework, Narratives & Personas</li>
         <li>In-class exercises: Future Newspaper; Future Business </li>
@@ -249,7 +247,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr>                       
 <tr>
-        <td valign="top">wk 12 Wednesday November 12 & Monday November 17th </td>
+        <td valign="top">wk 12 Wednesday November 19th & Monday November 24th </td>
         <td>
             <li> In-class exercises </li>
         <li>Constant Input/Output Presentations </li>
@@ -265,7 +263,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr> 
         <tr>
-        <td valign="top">wk 13 Wednesday November 19th & Monday November 24th</td>
+        <td valign="top">wk 13 MONDAY December 1st and WEDNEDAY December 3rd</td>
         <td>
         <li>Final Presentation Dry Run/Dress Rehearsal</li>
     </td>
@@ -279,7 +277,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr>
         <tr>
-        <td valign="top">wk 14 MONDAY December 1st and WEDNEDAY December 3rd</td>
+        <td valign="top">wk 14 Monday December 8 & Wednesday December 11 </td>
         <td>
             <li>Final Future Presentations</li>
     </td>
@@ -287,7 +285,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Do:</li>
     <ul>
         <li><a href = "assignmentBriefs/Future_weeklyBrief.md">Future Project</a></li>
-        <li><strong><a href = "end-of-semester-deliverables.md"> Submit End of Semester Deliverables by due dates on the brief. This is important --> XXXXX</a><strong></li>
+        <li><strong><a href = "end-of-semester-deliverables.md"> Submit End of Semester Deliverables by due dates on the brief. This is important --> December 12</a><strong></li>
     </ul>
         </td></tr>
 </table>
