@@ -196,9 +196,10 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         </td> </tr>
       <tr>
        <td valign="top">wk 9 <p>Wednesday October 29th & Monday November 3rd</td> 
+        <td valign="top"> 
        <li>Future Project</li>
         <li>Thing from the Future</li>
-        <li>Time Management: Time Inventory Part 2 </li>
+        <li>Time Management: Time Inventory Part 2 </li> </td>
          <td valign="top">
     <li>Do:</li>
     <li>Read: </li>
