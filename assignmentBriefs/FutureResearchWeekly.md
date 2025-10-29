@@ -2,7 +2,19 @@
 
 # Future Research Project Weekly Brief
 
-This document serves as a weekly guide of how to advance your [Future Research Project](Midterm.md).
+This document serves as a weekly guide of how to advance your [Future Research Project](https://github.com/IDMNYU/IdeationPrototyping_LadyK/blob/main/Midterm.md).
+
+#### Week 8
+1. If you are missing resources from these past few weeks, and have gotten some feedback about new aspects of your project, work to acquire these sources regarding the new feedback.
+
+2. Iterate your Concept Map. Post the status of it.
+3. Annotated Bibliography. Revised and post the status of it.
+4. Iterate your Concept Map. Post the status of it.
+5. Iterate & Post the status of your Stakeholders,
+6. Iterate & Post the status of your Moodboard
+7. Iterate & Post the status of the timeline of your topic. (this includes the history.)
+8. Post mindmaps & crazy 8 exercise regarding your Prototype: Tool (if you have not already done so.)
+9. Post drafts of your problem statement...How might We...?
 
 #### Week 7
 

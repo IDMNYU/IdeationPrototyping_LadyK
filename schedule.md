@@ -164,8 +164,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <td valign="top"> 
          <li> Discuss Time Management: Willpower Part 2</li>
           <li>Problem Statements & Challenge Statements</li>
-          <li><strike>Prototyping Artifact</strike></li>
-          <li><strike>Thing from the Future</stike></li>
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -181,8 +179,9 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
        <td valign="top">wk 8 <p> Wednesday October 22 & Monday October 27</td> 
           <td><li>Dicuss: Problem Statements</li>
               <li>Discuss: Self Assessment</li>
+              <li>Prototyping Tool</li>
               <li><strike> Future Project Part 2</strike></li>
-              <li> <a href = "TimeManagementTechniques/tm_Inventory_Audit.md">Time Management: Time Audit/Inventory </a>. (See also Slack Slides)</li>
+              <li> <a href = "TimeManagementTechniques/tm_Inventory_Audit.md">Time Management: Time Audit/Inventory </a>. (See also Slack Slides)</li> 
     </td>
      <td valign="top">
         <li>Read: </li>
@@ -190,7 +189,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Do:</li>
        <li> Post exercises done in class or outlined in class with a reflection. Post under "Reflections"</li>
        <li>Finish/Refine your <a href = "assignmentBriefs/FutureResearchWeekly.md">Future Research Project </a> documents</li>
-         <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
+        <strike> <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a> </strike>
     <li><a href ="TimeManagementTechniques/tm_Inventory_Audit.md">Time Management System: Time Inventory</a></li>
     <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due </strong>. Only do "Self". The others you will do at the end of the semester.</li>
         </td> </tr>
@@ -198,8 +197,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <td valign="top">wk 9 Wednesday October 22nd & Monday October 27th </td>
         <td>
         <li>Future Project</li>
-         <li>Future Project: Ethics</li>
-        <li> Time Management: Time Inventory Part 2 </li>
+        <li>Thing from the Future</li>
+        <li>Time Management: Time Inventory Part 2 </li>
     </td>
      <td valign="top">
     <li>Do:</li>
@@ -214,7 +213,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <td valign="top">wk 10 Wednesday October 29th & Monday November 3rd</p></td>
         <td>
         <li>Discuss: Homework </li>
-       <li>In-class exercises - Future Object</li>
+       <li>Future Project: Ethics</li>
        <li> Introduce and Discuss Final Presentations </li>
         <li> Time Management: <a href = "TimeManagementTechniques/tm_energyMapping.md"> Energy Mapping </a> </li>
     </td>
@@ -247,7 +246,6 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
          <li>Prepare Constant Input/Constant Ouput Presentation</li> 
     <li><a href ="Time_Management_System.md">Time Management System: Eat That Frog</a></li>
-     <li>Read the second batch of Letters from the Previous Cohort (Slack) and write a reflection considering your process and the rest of the semester</li>
     </ul>
         </td></tr>                       
 <tr>
