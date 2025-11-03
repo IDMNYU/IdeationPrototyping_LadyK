@@ -205,6 +205,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     <li>Read: </li>
             <li> Creative Quest by Questlove</li>
         <li><a href = "assignmentBriefs/Future_weeklyBrief.md">Future Project</a></li>
+        <li> Show progress on your <a href = "Artifact_Tool.md">Artificat: Tool </a> - Crazy 8, Mindmaps, sketches, low-fi physical prototypes - Where ever you are at in your process! Take some steps</li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
     <li><a href ="TimeManagementTechniques/tm_Inventory_Audit.md">Time Audit Part 2 : Unscheduled time</a></li> 
     <li><a href = "self_assessments.md">Write your Midterm Self Assessment using the guide linked on the brief. </a><strong>This is due Nov 15</strong>. Only do "Self". The others you will do at the end of the semester.</li>
