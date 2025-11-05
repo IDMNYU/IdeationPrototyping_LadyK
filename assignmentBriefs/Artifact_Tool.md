@@ -3,7 +3,7 @@
 
 # [Artifact 1: Tool](Artifact_Tool.md)
 
-Design a new or undiscovered tool with reference to your Future Research Project.
+Design a new or undiscovered tool with reference to your Future Research Project. This can be a riff off something that exists, a system that exists, or an idea about tweaking something that already or improves (or makes worse) a particular process with regards to your topic.
 
 Use prototyping to futher your idea and making.
 
