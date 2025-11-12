@@ -7,7 +7,7 @@
 
 1. Write a short reflection discussing the developments, points that you are at, questions that you have, and things you intend to develop further. What do you need to research? What are you weak points?
 
-2. Think of what you'd want this world to be like with reference to your Future Research Topic. Or, maybe think and create the world you do not like. Perhaps it's your worst idea. Super! How can all of your previous research inform what might need to happen? Or, thinking about the world you want, use Sticky Steps to work backwards to see what you need to create to have these things happen.
+2. Think of what you'd want this world to be like with reference to your Future Research Topic. Or, maybe think and create the world you do not like. Perhaps it's your worst idea. Super! How can all of your previous research inform what might need to happen? Or, thinking about the world you want, use Sticky Steps (See [Miro Board](https://miro.com/app/board/uXjVLOv4iHs=/?share_link_id=990800284556) to work backwards to see what you need to create to have these things happen.
 
 3. Post your Ethics exercise work and write a reflection. How does this impact your perspective of the Future Project?
 
@@ -15,7 +15,7 @@
 
 5. Work on moving your artifact and it's iterations FORWARD. Document the process and post about it.
 
-6. Address and do what needs to be done to bring your work up to speed and/or to move your project forward. Post and reflect throughout the process.
+6. Address and do what needs to be done to bring your work up to speed and/or to move your project forward. Use a previous exercise to help you along. Post and reflect throughout the process.
 
 
 ### Semester Week 9 | Week 1: Future Project - Launch
