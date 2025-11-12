@@ -13,7 +13,9 @@
 
 4. Post your Speculative Design reflection. How does this impact your perspective of the Future Project?
 
-5. Address and do what needs to be done to bring your work up to speed and/or to move your project forward. Post and reflect throughout the process.
+5. Work on moving your artifact and it's iterations FORWARD. Document the process and post about it.
+
+6. Address and do what needs to be done to bring your work up to speed and/or to move your project forward. Post and reflect throughout the process.
 
 
 ### Semester Week 9 | Week 1: Future Project - Launch
