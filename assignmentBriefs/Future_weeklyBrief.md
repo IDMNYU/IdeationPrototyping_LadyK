@@ -3,6 +3,19 @@
 
 # [Future Project](Future.md) Weekly Brief
 
+### Semester Week 10 | Week 2: Future Project
+
+1. Write a short reflection discussing the developments, points that you are at, questions that you have, and things you intend to develop further. What do you need to research? What are you weak points?
+
+2. Think of what you'd want this world to be like with reference to your Future Research Topic. Or, maybe think and create the world you do not like. Perhaps it's your worst idea. Super! How can all of your previous research inform what might need to happen? Or, thinking about the world you want, use Sticky Steps to work backwards to see what you need to create to have these things happen.
+
+3. Post your Ethics exercise work and write a reflection. How does this impact your perspective of the Future Project?
+
+4. Post your Speculative Design reflection. How does this impact your perspective of the Future Project?
+
+5. Address and do what needs to be done to bring your work up to speed and/or to move your project forward. Post and reflect throughout the process.
+
+
 ### Semester Week 9 | Week 1: Future Project - Launch
 
 1. Read Speculative Everything (see Slack for the link) Chapter 1. This chapter will situate the project, giving it context, as you are developing a speculative future. Do not skip it. Write a brief reflection and post under reflections (if you have not done so).

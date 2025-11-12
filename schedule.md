@@ -245,7 +245,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
             <li> Creative Quest by Questlove</li>
         <li><a href = "assignmentBriefs/Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
-         <li>Prepare Constant Input/Constant Ouput Presentation</li> 
+         <li>Prepare <a href = "assignmentBriefs/ConstantIOPres.md">Constant Input/Constant Ouput Presentation</a></li> 
     <li><a href ="Time_Management_System.md">Time Management System: Eat That Frog</a></li>
     </ul>
         </td></tr>                       
@@ -253,7 +253,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <td valign="top">wk 12 Wednesday November 19th & Monday November 24th </td>
         <td>
             <li> In-class exercises </li>
-        <li>Constant Input/Output Presentations </li>
+        <li><a href = "assignmentBriefs/ConstantIOPres.md">Constant Input/Output Presentations </a> </li>
     </td>
      <td valign="top">
     <li>Do:</li>
