@@ -246,7 +246,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
         <li><a href = "assignmentBriefs/Future_weeklyBrief.md">Future Project</a></li>
          <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput</li> </a>
          <li>Prepare <a href = "assignmentBriefs/ConstantIOPres.md">Constant Input/Constant Ouput Presentation</a></li> 
-    <li><a href ="Time_Management_System.md">Time Management System: Eat That Frog</a></li>
+    <li><a href ="Time_Management_System.md">Time Management System: <strike>Eat That Frog</a></strike> Energy Mapping Part II</li>
     </ul>
         </td></tr>                       
 <tr>
