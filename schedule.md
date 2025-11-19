@@ -280,7 +280,7 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
     </ul>
         </td></tr>
         <tr>
-        <td valign="top">wk 14 Monday December 8 & Wednesday December 11 </td>
+        <td valign="top">wk 14 Monday December 8 & Wednesday December 10 </td>
         <td>
             <li>Final Future Presentations</li>
     </td>
