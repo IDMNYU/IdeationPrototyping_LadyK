@@ -1,7 +1,17 @@
 ### DM-UY 1143  Ideation and Prototyping
 ##### Fall 2025 • Katherine Bennett • Mon/Wed 10:00AM- 11:50PM • 370 Jay Room 309
 
-# [Future Project](Future.md) Weekly Brief
+# [Future Project](../Future.md) Weekly Brief
+
+### Semester Week 11 | Week 3: Future Project
+
+1. Write a short reflection discussing the developments, points that you are at, questions that you have, and things you intend to develop further. What do you need to research? What are you weak points?
+
+2. Post exercises done in class, as well as a reflection. Did you gain anything from each of them?
+
+3. Work on the next stage of your artifact
+
+4. Develop your Future Project further. Research, Concept Map, Timeline (continuation), Stakeholders, Mindmaps. 5WH (who, what, when, where, why, how), UMD #2 ideas/sketches, moodboards, project statements, etc. Move your project forward. How are you developing and strengthening it? What are you researching?
 
 ### Semester Week 10 | Week 2: Future Project
 
