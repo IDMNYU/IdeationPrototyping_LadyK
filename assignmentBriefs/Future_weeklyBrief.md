@@ -38,7 +38,7 @@ You may need to brainstorm, moodboard, research, ideate, etc. Document and show 
 
 The storyboard and process to create it, is worth 15% of your final course grade.
 
-All of this work most posted to your Process Site, under The Future project BEFORE December 18th 9am. Do not post it all at once. Post gradually as you work. I will be reviewing your process.
+All of this work most posted to your Process Site, under The Future project BEFORE December 17th 9am. Do not post it all at once. Post gradually as you work. I will be reviewing your process.
 
 
 
