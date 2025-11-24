@@ -36,7 +36,9 @@ This storyboard would be the first step to creating the actual performance, wher
 You may need to brainstorm, moodboard, research, ideate, etc. Document and show your process and reflect on it throughout.
 
 
+The storyboard and process to create it, is worth 15% of your final course grade.
 
+All of this work most posted to your Process Site, under The Future project BEFORE December 18th 9am. Do not post it all at once. Post gradually as you work. I will be reviewing your process.
 
 
 
