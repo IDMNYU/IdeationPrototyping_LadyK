@@ -3,6 +3,43 @@
 
 # [Future Project](../Future.md) Weekly Brief
 
+### The remaining last weeks of the semester | Future Project
+
+1. Remix into your future project, a concept, idea, phenomenon that is OUTSIDE (clearly unrelated) to your topic. This can be something in the present, that gives you ideas about how to transform your topic into your future world. This could be insertion can be the research for a particular mechanism, happening, chain of events, etc that helps your world get to it's place in the future, OR is the cause of it's future.
+
+This remix should be some thing that causes a chain of events that not only affect your topic, but other aspects in the world. Think the psychology of the people, culture, politics, evironment and/or economics. Thus there is a casading or ripple, or expodential succession of events. These do not have to be linear. You are invited to make them asynchronous. Yet, they work together to culminate either your world, or the start of your world.
+
+You are to show these developments through the following documents:
+
+a. 2-3 (if not more) new annotated research entries.
+
+b. A designed and executed UMD that is new and takes you beyond your comfort zone and circles of friendds
+
+c. Refined and visual concept map (not a list). This is to be high fidelity. It also needs to articulate the relationship between the entries. Refer to the slides and prior brief regarding Concept Maps
+
+d. Refined and visual stakeholder map. High Fidelity
+
+e. Time line of events (both history (ie, future research) and the subsequent events you've created which are backed up by research). High Fidelity
+
+f. Refined and complete annotated bibliography of all of your entries over the semester. This is one document.
+
+g. Subsequent mind maps, previously assigned exercises that you are using again to help future your process. All documentation of these events to help you achieve the above with reflections
+
+h. A visual and annotated storyboard, which comes out of your world ie, it is spun from your world, it can only happen in your world, that references the events, drives, conflicts, emotions and day to day events for the people. Through this storyboard, or some where in this storyboard, the message back to the current population is articulated directly or inferred to the reader.
+
+In this storyboard, this is not about how your world came to being. This is a STORY that takes place in your world.
+
+How you tell this story is up to YOU. I want to see everyone take some leaps and experiment here. This is not a word to word story. Instead it is clips that reference the general idea of the story.
+
+This storyboard would be the first step to creating the actual performance, where you are not yourself. What are the high points that need to get across? What are the significant points to express and illustrate your ideas?
+
+You may need to brainstorm, moodboard, research, ideate, etc. Document and show your process and reflect on it throughout.
+
+
+
+
+
+
 ### Semester Week 11 | Week 3: Future Project
 
 1. Write a short reflection discussing the developments, points that you are at, questions that you have, and things you intend to develop further. What do you need to research? What are you weak points?
