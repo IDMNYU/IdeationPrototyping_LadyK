@@ -13,7 +13,7 @@ Use prototyping to futher your idea and making.
 
 - Create a low-fi 3D model. Think: simple supplies: stuff around the house/recycling bin + hot glue gun + exacto knife, string, cardboard, legos, tissues, paper, tape
 
-- Create a higher-fi model
+- Create a higher-fi model OR several Technical Drawings
 
 Through each of these stages, document your PROCESS. Reflect on how it went. What did you learn and/or discover? What has changed? What difficulties did you encounter?
 
