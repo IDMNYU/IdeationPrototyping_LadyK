@@ -35,20 +35,20 @@ All posted to your Process Site under the "Future Project Tab"
 You will develop this world and project through the following assignments over the next several weeks:
 
 
-* additional Mood Boards and Mind Maps (as needed) <strong>  </strong>
-* Concept Maps       <strong>  </strong>
-* User Personas
-* Stakeholders
-* Newspaper - front page
-* Assumptions List
+* additional Mood Boards and [Mind Maps](assignmentBriefs/mindMaps.md) (as needed) <strong>  </strong>
+* [Concept Maps](assignmentBriefs/ConceptMap.md)      <strong>  </strong>
+* [User Personas](assignmentBriefs/Personas.md) - 3 general people of different demographics - show your sketches & higher fidelity documents
+* [Stakeholders](assignmentBriefs/StakeholderMaps.md) - represent all the new people in your world
+* Newspaper - front page - see Slack Slides
+* Assumptions List - See Miro board
 * [Problem Statement ideation](ProblemStatements.md)
-* Evidence of your development and research from TPUMoD 
-* Future Object/Artifact (low-fidelity 3-D prototype), including brainstorming and ideation  <strong>  </strong> 
-* Future Object/Artifact (High-fidelity 3-D prototype) or several Technial Drawings, including brainstorming and ideation<strong> </strong>
+* Evidence of your development and research from UMD - 1-2 new endeavors that are not something we've done before and takes you out of your comfort zone 
+* [Future Object/Artifact/Tool](assignmentBriefs/Artifact_Tool.md) (low-fidelity 3-D prototype), including brainstorming and ideation  <strong>  </strong>
+* [Future Object/Artifact](assignmentBriefs/Artifact_Tool.md) (High-fidelity 3-D prototype or several Technial Drawings), including brainstorming and ideation<strong> </strong>
 * Timeline of the problem/situation/challenge and surrounding events
 * Evidence of World Research -  <strong>  annotated  </strong>
 * Evidence of Idea Research - <strong> diversity of sources, via an [annotated bibliography](assignmentBriefs/Future_Annotated_Bibliography.md) </strong>
-* Storyboard  -  see Slack for links<strong>  </strong>
+* Storyboard (with narrative arc telling a story from your world NOT HOW YOUR WORLD CAME INTO BEING) -  see Slack for slides & links<strong>  </strong>
 
 ____________________________________________________________
 ## Part 3: The final for this course 15% of final grade
