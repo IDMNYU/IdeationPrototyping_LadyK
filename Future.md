@@ -39,7 +39,7 @@ You will develop this world and project through the following assignments over t
 * [Concept Maps](assignmentBriefs/ConceptMap.md)      <strong>  </strong>
 * [User Personas](assignmentBriefs/Personas.md) - 3 general people of different demographics - show your sketches & higher fidelity documents
 * [Stakeholders](assignmentBriefs/StakeholderMaps.md) - represent all the new people in your world
-* Newspaper - front page - see Slack Slides
+* Newspaper - front page - see Slack Slides and Miro board
 * Assumptions List - See Miro board
 * [Problem Statement ideation](ProblemStatements.md)
 * Evidence of your development and research from UMD - 1-2 new endeavors that are not something we've done before and takes you out of your comfort zone 
