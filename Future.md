@@ -37,7 +37,7 @@ You will develop this world and project through the following assignments over t
 
 * additional Mood Boards and [Mind Maps](assignmentBriefs/mindMaps.md) (as needed) <strong>  </strong>
 * [Concept Maps](assignmentBriefs/ConceptMap.md)      <strong>  </strong>
-* [User Personas](assignmentBriefs/Personas.md) - 3 general people of different demographics - show your sketches & higher fidelity documents
+* [User Personas](assignmentBriefs/Personas.md) - 3 general people of different demographics - show your sketches & higher fidelity documents - see slides and miroboard: Empathy Map
 * [Stakeholders](assignmentBriefs/StakeholderMaps.md) - represent all the new people in your world
 * Newspaper - front page - see Slack Slides and Miro board
 * Assumptions List - See Miro board
@@ -56,4 +56,4 @@ ____________________________________________________________
 You will develop a story/narrative as well as a final presentation method regarding your this project. Yet, you will not be you during your presentation. You must create a creative presentation where you act as someone else. This will require a round of brainstorming, prototyping, research, and iteration. It will be creative and communicate the story of your world.
 
 
-* Creative Presentation regarding world + your object -  <strong> </strong>
+* Creative Presentation regarding world + your object -  <strong> </strong> Storyboards (show your process!) - see slides on Slack and miro boards: Story-ish Conversations, Sticky Steps
