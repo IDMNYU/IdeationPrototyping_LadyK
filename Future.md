@@ -48,7 +48,7 @@ You will develop this world and project through the following assignments over t
 * Timeline of the problem/situation/challenge and surrounding events
 * Evidence of World Research -  <strong>  annotated  </strong>
 * Evidence of Idea Research - <strong> diversity of sources, via an [annotated bibliography](assignmentBriefs/Future_Annotated_Bibliography.md) </strong>
-* Storyboard (with narrative arc telling a story from your world NOT HOW YOUR WORLD CAME INTO BEING) -  see Slack for slides & links<strong>  </strong>
+* Storyboard (with narrative arc telling a story from your world NOT HOW YOUR WORLD CAME INTO BEING) -  see Slack for slides & links & Miro templates: Story-ish Conversations, Sticky Steps, Storyboards, Five T's of Story/Narrative, Storybuilding, etc <strong>  </strong>
 
 ____________________________________________________________
 ## Part 3: The final for this course 15% of final grade
@@ -56,4 +56,4 @@ ____________________________________________________________
 You will develop a story/narrative as well as a final presentation method regarding your this project. Yet, you will not be you during your presentation. You must create a creative presentation where you act as someone else. This will require a round of brainstorming, prototyping, research, and iteration. It will be creative and communicate the story of your world.
 
 
-* Creative Presentation regarding world + your object -  <strong> </strong> Storyboards (show your process!) - see slides on Slack and miro boards: Story-ish Conversations, Sticky Steps
+* Creative Presentation regarding world + your object -  <strong> </strong> Storyboards (show your process!) - see slides on Slack and miro boards: Story-ish Conversations, Sticky Steps, Storyboards, Five T's of Story/Narrative, Storybuilding, etc
