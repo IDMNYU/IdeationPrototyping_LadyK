@@ -3,7 +3,8 @@
 
 # Future Project 
 
-### 20% of Final Grade
+### 20% of Final Grade 
+#### Due Dec 17th Noon - Post everything to your Process Site. 
 
 For our final project, The Future, you will be creating a speculative design project. This project can be done as a team or as an individual.
 

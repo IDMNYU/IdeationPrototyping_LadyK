@@ -7,7 +7,7 @@
  
 ## It is your responsibility to turn in the following items in the specified manner according to the specified date. No reminders will be sent. Nothing will be accepted after the deadline. This is a hard deadline. These documents are part of your grade.
 
-The following is <strong> due May 9th by NOON: </strong>
+The following is <strong> due Dec 17th by 4pm: </strong>
 <ul>
 <li><a href="Future.md">Future Dystopia/Utopia Project Documentation </a>, including the Final Presentation (which is different for every student). This includes the development process, ideation, supporting files and final files. Post a reflection. <br> 
 <br> 

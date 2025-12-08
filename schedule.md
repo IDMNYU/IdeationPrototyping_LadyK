@@ -287,8 +287,8 @@ Schedule: <strong>Get Training at <a href="http://makerspace.engineering.nyu.edu
      <td valign="top">
     <li>Do:</li>
     <ul>
-        <li><a href = "assignmentBriefs/Future_weeklyBrief.md">Future Project</a></li>
-        <li><strong><a href = "end-of-semester-deliverables.md"> Submit End of Semester Deliverables by due dates on the brief. This is important --> December 12</a><strong></li>
+        <li><a href = "assignmentBriefs/Future_weeklyBrief.md">Future Project</a></li><bold>Post all work by NOON on Dec 17th</bold>
+        <li><strong><a href = "end-of-semester-deliverables.md"> Submit End of Semester Deliverables by due dates on the brief. This is important --> December 17 4pm</a><strong></li>
     </ul>
         </td></tr>
 </table>
