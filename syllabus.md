@@ -1,12 +1,12 @@
 ### DM-UY 1143 Ideation and Prototyping
-##### Fall 2025 • Katherine Bennett • Mon/Wed 10:00-11:50 • In-person room 309 @ 370 Jay Street
+##### Fall 2025 • Katherine Bennett • Mon/Wed 2:00-3:50 • In-person room 309 @ 370 Jay Street
 
 * **Professor: Katherine Bennett**
 * **Email: Katherine.Bennett@nyu.edu** 
 
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-   Office Hours: by appointment via Slack after class. Other times are also possible. Message me or come talk to me.
+   Office Hours: Typically Mon/Wed 4:00-5:00pm or by appointment (send me a Slack direct message (dm). Other times are also possible. Message me or come talk to me.
     
 
 #### Course Management Site: 
@@ -30,9 +30,9 @@ Prerequisite: None
 
 #### [IDM Tech Training](https://brightspace.nyu.edu/d2l/home/379585)
 
-#### [Slack workspace](https://ideationproto-guf4117.slack.com) The URL is:  You must first have an account with Slack. Once you've signed up with Slack, you may join our workspace using the following link (only good for 30 days): 
+#### [Slack workspace]() The URL is:  You must first have an account with Slack. Once you've signed up with Slack, you may join our workspace using the following link (only good for 30 days): 
 
-[**Link to join Slack**](https://forms.gle/2ZGJsKULnJhgM3EE8)
+[**Link to join Slack**]()
 
 # Syllabus Short Cuts:
 [Academic Integrity](#Academic-Integrity)\
@@ -111,7 +111,7 @@ There will be discrete team and individual exercises and projects that require y
 
 [Back To The Top](#Syllabus-Short-Cuts)
 
-### Time Estimate Per Week for Homework
+### Time Estimate Per Week for Homework - Asynchronous Learning Time
 
 These are ball-park time estimates for various homework assignments given in this course. These estimates will vary per student, as they also will throughout the semester. In the beginning of the semester, the time will be spread across the assignments. As various assignments wrap up towards the end of the semester, that time will then be required to be dedicated towards The Future project. 
 
@@ -119,21 +119,22 @@ Please manage your time and do. not. do. your. homework. in. one. sitting. It wi
 
 * Constant I/O Project - 60 minutes
 * Time Management - 15-25 minutes
-* Future Project - 60-180 minutes
+* Prototyping and News Research; Future Project - 60-180 minutes
 * Updating Blog with work and written reflections - 30-90 minutes
 * Readings from required books and links - 30 minutes
 
 [Back To The Top](#Syllabus-Short-Cuts)
 
+
 ### Student Responsibilities
 
-* Be present and focused during class. Not multi-tasking nor in your devices. Take notes. You are responsible for being present and understanding what was discussed in class. Get the proper amount of sleep.
+* Be present and focused during class. Not multi-tasking nor in your devices. You are required to take notes. You are responsible for being present and understanding what was discussed in class. Get the proper amount of sleep.
 * Schedule your time (keep a calendar of some sort) 
 * Come to class on time and participate (be present and engaged)
 * Study outside of class (ideally with classmate(s)
-* Devote at a minimum 6 - 8 hours per week - of well organized time - outside of class: fulfilling homework assignments, reading, and studying concepts covered in class.
-* Consult slack at least twice a week for up to date info. Ideally towards the end of the week.
-* Complete all assignments and post to your site by due dates and time deadlines - Sunday 10:00 EST (unless otherwise specified on the assignment brief)
+* Devote at a minimum 5 hours per week - of well organized time - outside of class: fulfilling homework assignments, reading, and studying concepts covered in class. More time may be required for some students.
+* Consult Slack at least twice a week for up to date info. Ideally towards the end of the week.
+* Complete all assignments and post to your Process site by due dates and time deadlines - Sunday 10:00 EST (unless otherwise specified on the assignment brief)
 * Participation is not limited to the assignments that you turn in. Participation also includes not only your presence in class, but your questions, feedback and dialog. Do not fall into the trap of being lazy during class and never vocalizing your presence. Lean in and be present. If you have a question, someone else does too. You vocalizing your questions helps others to do the same. You must be active in class.
 * Email contact about logistics (when, where, how many, etc) ONLY
 * Talk to me in real-time about issues or problems
@@ -144,7 +145,7 @@ Please manage your time and do. not. do. your. homework. in. one. sitting. It wi
 * Action – do your _absolute_ best. Be aware that your best varies day to day as you do as a human. This is normal.
 * Make peace with the fact that your best one day, may not be the best on another day. One's best fluctuates. That's okay. It's normal and part of life.
 * Strive for continuous improvement
-* Direct message me on slack re: contact about logistics (when, where, how many?) only
+* Direct message me on Slack re: contact about logistics (when, where, how many?) only
 * Talk to me in person about issues and problems. Do not direct message me with long conversations on slack. (if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.)
 * Have desire amounting to enthusiasm (to learn, to explore)
 * Have patience, persistence, and discipline 
@@ -193,27 +194,29 @@ Please manage your time and do. not. do. your. homework. in. one. sitting. It wi
 
 #### Your final grade will be based on a synthesis of quantitative &amp; qualitative rubrics:
 
-Makeup assignments are only available when discussed with and approved by the instructor in advance of the due date.
+Your work will be evaluated on your evidence of thinking and your evolution of thought. It is not graded on "correctness." You are to ask questions through your work, not to find answers.
 
 Each student will be judged on the commitment, fearlessness, and _continuous improvement_ that their work shows over the course of the semester in comprehending the course materials. You will be given feedback as to how to tune the direction of your work. Everyone one will be different. This is wonderful! And perfectly fine! Yet, it's up to you to listen to the feedback, be receptive, and tune your work appropriately. 
 
 If your work is not developing with multiple sizeable strides that demonstrate depth, your grade will be below satisfactory. It is up to you to be open, put in the research and work, to be imploring with your feedback and to communicate your work as advised.
 
-I am looking at your comprehension, development, depth, receptivity, fearlessness, communication/ability to express your ideas and be a strong member of our class community.
+I am looking at your comprehension, development, depth, receptivity, fearlessness, risk-taking, communication/ability to express your ideas and be a strong member of our class community.
 
 Incomplete or unsatisfactory work (lacking depth and notable development strides) will receive a below satisfactory grade, after one has not addressed it in a reasonable period of time.
 
+Makeup assignments are only available when discussed with and approved by the instructor in advance of the due date.
 
 ##### Quantitative Grading Breakdown
 
 *   5% Class participation: discussion and feedback of your peers, cognitive presence in class, discussion of your work and challenges, your activity within the class community inside and outside of class
 *   5% [Self Assessments](self_assessments.md) (2.5% each)
-*   5%  [Artifact](designProblem.md)
+*   20%  [The Iterative Object Project](designProblem.md)
 *   10% [Constant Input/Output](constant_input_output.md)
-*   20% [Process Website](process_website.md), including all written reflections for ALL posts, including time Management, Class exercises, News Reflections, Article reflections
-*   20% [Future Research Project](Midterm.md)
+*   20% [Process Website](process_website.md), including all written reflections for ALL posts, including time Management, Class exercises, Article reflections
+*   5% [Future Project: News Research & Reflections]
+*   5%  [Future Artifact]
 *   20% [Future Project Development](Future.md) 
-*   15% Project Final Presentation + Process
+*   10% Project Final Presentation + Process
 
 [Back To The Top](#Syllabus-Short-Cuts)
 
@@ -238,14 +241,15 @@ Performance and attendance of the student has been such that course requirements
 
 ### Late Work
 
-Late work (ie, 2++ weeks) is not accepted, as this course is about process, namely, regularly weekly development of projects and assignments. Assignments are assigned a key points within the semester, to be timed with the students development. Doing the assignments out of rhythm, defeats the entire point. Time cannot be made up, nor can we go back in time.
+This course is about process, namely, regularly weekly development of projects and assignments. This is not a cram class. If you are cramming, you need to adjust your expectations of your grade. 
 
-If you are late by a week or so, post the work to your Process site under the appropiate label. Do not back date the post as older posts will not be reviewed.
+Assignments are assigned a key points within the semester, to be timed with the students development. Doing the assignments out of rhythm, defeats the entire point. Time cannot be made up, nor can we go back in time.
 
-You must do the assignments, in the order that they are assigned. Each is strategically placed within the semester. They work together like building
-blocks. Thus, they cannot be skipped as you will not have the pieces to work with for the subsequent assignment.
+If you are late by a week or so, post the work to your Process site under the appropiate label. DO NOT BACK DATE the post as older posts will not be reviewed.
 
-Process sites are reviewed and assessed weekly. Work is due on **Sundays by 10 AM EST.** _You are welcome to post it earlier than this._ Work posted after that will go towards the following week, and be reviewed next Sunday. This put you behind, as your work will not be reviewed in time. A record is made for the missing work, as this effects your overall grade and your opportunity to progress.
+You must do the assignments, in the order that they are assigned. Each is strategically placed within the semester. They work together like building blocks. Thus, they cannot be skipped as you will not have the pieces to work with for the subsequent assignment.
+
+Process sites are reviewed and assessed weekly/regularly. Work must be posted before **Saturdays by 10 AM EST.** _You are welcome to post it earlier than this._ Work posted after that will go towards the following week, and be reviewed next Sunday. This put you behind, as your work will not be reviewed in time. A record is made for the missing work, as this effects your overall grade and your opportunity to progress.
 
 Late work beyond two weeks is submitted only under the advisement of the professor. Please contact me to discuss this with me. It's critical to strategize. I will advise you how to move through the material. Office hours are great for this.
 
@@ -263,7 +267,9 @@ Positive/successful use of AI and generative software (in addition to documentin
 
 ### Special Note about work for this class:
 
-* These are large projects which develop over _a series of weeks_. Each week they are assessed for their development and strides from the previous weeks. As with any process, time in between completion of work allows for the development of the project. Hence forth, "cram sessions" are worthless here. If you see the assignments as check lists, you are in grave danger. If you think you can do 3 or 4 weeks of work in half the time, you are mistaken and have missed the value of this course. You are also wasting your valuable time. This isn't a course, that you can "catch up with".
+* Their are several projects which develop over _a series of weeks_. Each week they are assessed for their development and strides from the previous weeks. Thus, your work is evaluated on your evidence of thinking, not correctness. Evidence of thinking is demonstrated in all of your posted reflections, clear posts of visual materials with annotations, progressive depth & pivots of your topic material. 
+
+* As with any process, time in between completion of work allows for the development of the project. Hence forth, "cram sessions" are worthless here. If you see the assignments as check lists, you are in grave danger. If you think you can do 3 or 4 weeks of work in half the time, you are mistaken and have missed the value of this course. You are also wasting your valuable time. This isn't a course, that you can "catch up with".
 
 * Furthermore, if you leave all of the work to one day, you will struggle with the course. Time and time again students have mentioned that this made a huge difference in managing the course. Once the stopped doing work the night before, and also broke the assignments up over time, did they finally see the development strides. Breaks are good. Cramming is not.
 
@@ -273,7 +279,7 @@ Positive/successful use of AI and generative software (in addition to documentin
 
 * All due dates can be found in the [schedule](schedule.md). This is just an overview and description of all the projects for the course. 
 
-* Post all homework assignments to your Process Site by Saturday 10am EST. Period. Otherwise, they are considered late. When you post, post not just images, but a short discussion outlining what happened, what transpired and what you gained. Give us context. Tell us what this is about. Tell us what you are thinking. Tell us what you are thinking. Where might you go next? What next might you do?
+* Post all homework assignments to your Process Site before Saturday 10am EST. Period. Otherwise, they are considered late. When you post, post not just images, but a short discussion outlining what happened, what transpired and what you gained. Give us context. Tell us what this is about. Tell us what you are thinking. Tell us what you are thinking. Where might you go next? What next might you do?
 
 * Context and discussion of each assignment is addressed within the assigned modules and class. Make sure to read each module and be attentive in class, so as to complete each assignment appropriately. You can also ask questions in the assignment_questions channel in Slack. Public conversation is great! Your questions help everyone learn!
 
@@ -315,9 +321,7 @@ Faculty can provide course accommodations/modifications only after receipt of an
 
 ### REQUIRED SUPPLIES
 *   A physical Sketchbook and 3-7 drawing tools. I like Moleskines or something similar. See [Sketchbook Work](Sketchbook.md) for more details.
-*	A physical planner. See [Planners and Journals](Planners.md)
 *   Digital Camera (You can also use a smart phone.)
-*   Access to Netflix 
 *   Digital Storage (Thumb Drives or External Hard Drive, Laptop, etc)
 * 	Youtube or Vimeo Account
 *   paper, scissors/craft knife, hot glue + gun, tape, toothpicks, popsicle sticks, string, cardboard (save your cardboard shipping boxes, etc), legos, tinkertoys, wood, etc.
@@ -376,18 +380,18 @@ If you feel that you have been discriminated against, biased or harrassed (for w
 ### Assignment Links
 
 #### Major Projects
-* [Core Project](midterm_project.md)
-The Core Project is a series of Ideation and Research exercises along with regular research. Weekly posts will demonstrate your process. A Final Annotated Bibliography will show the breathe and depth or your research
+* [The Iterative Object]()
+
 * [Future](future.md)
 The Future Project is comprised of many smaller exersices: Card Sorting, Mind Mapping, Concept Maps, Mood Boards, Prototypes (low & high; 2D and 3D), Timeline, Storyboards, Personas, Stakeholder Maps, various forms/types of research, an annotated bibliography, and a Final Presentation. 
 
 There will be several drafts and versions of each. All are required to be submitted if they wish to be evaluated as part of your process.
 
-#### Mini Projects & On-Going Assignments
+#### On-Going Assignments
 
 * [Constant Input/Output](constant_input_output.md)
 * [Time Management Exercises](Time_Management_System.md)
-* [Design Problem](designProblem.md)
+
 
 
 #### Documentation & Reflections

@@ -1,5 +1,5 @@
 ### DM-UY 1143 Ideation and Prototyping
-##### Fall 2025 • Katherine Bennett • Mon/Wed 10:00-11:50 • In-person room 309 @ 370 Jay Street
+##### Spring 2026 • Katherine Bennett • Mon/Wed 2:00-3:50 • In-person room 309 @ 370 Jay Street
 
 # Schedule
 **All dates and assignments are subject to change at the discretion of the professor! Git and slack are the official sources for all dates and assignments.**
